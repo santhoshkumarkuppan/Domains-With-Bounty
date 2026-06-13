@@ -12,18 +12,14 @@
     <header class="border-b border-gray-800 bg-gray-950 p-6 sticky top-0 z-50 shadow-md">
         <div class="max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-center gap-4">
             <div>
-                <h1 class="text-2xl font-black text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-emerald-400 tracking-tight">Bounty Domains Scraper v1.0</h1>
+                <h1 class="text-2xl font-black text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-emerald-400 tracking-tight">VULN-TRACKER v2.0</h1>
                 <p class="text-xs text-gray-400 mt-0.5">Aggregated Cross-Platform Bug Bounty Intel</p>
             </div>
             
             <div class="flex gap-4 text-center">
                 <div class="bg-gray-900 px-4 py-2 rounded-lg border border-gray-800">
-                    <span class="block text-xs font-semibold text-gray-400 uppercase tracking-wider">Total Targets</span>
+                    <span class="block text-xs font-semibold text-gray-400 uppercase tracking-wider">Total Cached Scope</span>
                     <span class="text-xl font-bold text-blue-400" x-text="filteredPrograms.length">0</span>
-                </div>
-                <div class="bg-gray-900 px-4 py-2 rounded-lg border border-gray-800">
-                    <span class="block text-xs font-semibold text-gray-400 uppercase tracking-wider">Max Potential Bounty</span>
-                    <span class="text-xl font-bold text-emerald-400">$25,000</span>
                 </div>
             </div>
         </div>
@@ -32,16 +28,15 @@
     <main class="max-w-7xl mx-auto p-4 md:p-8">
         
         <div class="bg-gray-950 border border-gray-800 rounded-xl p-6 mb-8 shadow-sm flex flex-col gap-4 lg:flex-row lg:items-center">
-            
             <div class="flex-1">
                 <label class="block text-xs uppercase font-bold tracking-wider text-gray-400 mb-2">Search Domains / Program Handles</label>
-                <input type="text" x-model="searchQuery" placeholder="e.g., api.google.com, stripe, uber..." 
+                <input type="text" x-model="searchQuery" @input="page = 1" placeholder="e.g., apple, crypto, wildcard query..." 
                        class="w-full bg-gray-900 border border-gray-700 rounded-lg px-4 py-2.5 text-sm text-white focus:outline-none focus:border-blue-500 transition">
             </div>
 
             <div class="w-full lg:w-48">
                 <label class="block text-xs uppercase font-bold tracking-wider text-gray-400 mb-2">Source Engine</label>
-                <select x-model="sourceFilter" class="w-full bg-gray-900 border border-gray-700 rounded-lg px-3 py-2.5 text-sm text-white focus:outline-none focus:border-blue-500">
+                <select x-model="sourceFilter" @change="page = 1" class="w-full bg-gray-900 border border-gray-700 rounded-lg px-3 py-2.5 text-sm text-white focus:outline-none focus:border-blue-500">
                     <option value="ALL">All Platforms</option>
                     <option value="HackerOne">HackerOne</option>
                     <option value="Bugcrowd">Bugcrowd</option>
@@ -50,16 +45,15 @@
 
             <div class="w-full lg:w-48">
                 <label class="block text-xs uppercase font-bold tracking-wider text-gray-400 mb-2">Sort Array Order</label>
-                <select x-model="sortBy" class="w-full bg-gray-900 border border-gray-700 rounded-lg px-3 py-2.5 text-sm text-white focus:outline-none focus:border-blue-500">
+                <select x-model="sortBy" @change="page = 1" class="w-full bg-gray-900 border border-gray-700 rounded-lg px-3 py-2.5 text-sm text-white focus:outline-none focus:border-blue-500">
                     <option value="title">Alphabetical (A-Z)</option>
                     <option value="max_bounty">Max Reward Tier ($)</option>
-                    <option value="total_awarded">Total Bounties Given</option>
                 </select>
             </div>
         </div>
 
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-            <template x-for="prog in filteredPrograms" :key="prog.handle">
+            <template x-for="prog in paginatedPrograms" :key="prog.handle + prog.source">
                 <div class="bg-gray-950 border border-gray-800 rounded-xl p-6 flex flex-col justify-between hover:border-gray-700 transition duration-200 group shadow-sm">
                     <div>
                         <div class="flex items-center justify-between gap-2 mb-4">
@@ -67,7 +61,7 @@
                                   class="text-[10px] font-black uppercase px-2.5 py-1 rounded-md tracking-wider" x-text="prog.source"></span>
                             
                             <span class="text-xs font-mono font-medium text-emerald-400 bg-emerald-950/40 px-2 py-1 rounded border border-emerald-900/60">
-                                Max: $<span x-text="prog.max_bounty.toLocaleString()"></span>
+                                Active Bounty Scope
                             </span>
                         </div>
 
@@ -75,24 +69,12 @@
                         <p class="text-xs text-gray-500 font-mono mt-0.5" x-text="'/'+prog.handle"></p>
 
                         <div class="mt-4">
-                            <span class="text-[11px] font-bold text-gray-400 block mb-1.5 uppercase tracking-wide">In-Scope Target Domains</span>
+                            <span class="text-[11px] font-bold text-gray-400 block mb-1.5 uppercase tracking-wide">Extracted Target Scopes</span>
                             <div class="flex flex-wrap gap-1.5">
                                 <template x-for="domain in prog.targets">
-                                    <code class="bg-gray-900 text-gray-300 text-[11px] px-2 py-0.5 rounded border border-gray-800" x-text="domain"></code>
+                                    <code class="bg-gray-900 text-gray-300 text-[10px] px-2 py-0.5 rounded border border-gray-800 max-w-full overflow-hidden text-ellipsis whitespace-nowrap" x-text="domain"></code>
                                 </template>
                             </div>
-                        </div>
-
-                        <div class="mt-4 pt-4 border-t border-gray-900">
-                            <span class="text-[11px] font-bold text-amber-400 block mb-1.5 uppercase tracking-wide">Top Impact Areas</span>
-                            <ul class="space-y-1">
-                                <template x-for="finding in prog.top_findings">
-                                    <li class="text-xs text-gray-400 flex items-center gap-1.5">
-                                        <span class="inline-block w-1 h-1 bg-amber-500 rounded-full"></span>
-                                        <span x-text="finding"></span>
-                                    </li>
-                                </template>
-                            </ul>
                         </div>
                     </div>
 
@@ -105,9 +87,18 @@
             </template>
         </div>
 
-        <div x-show="filteredPrograms.length === 0" class="text-center py-16 bg-gray-950 border border-dashed border-gray-800 rounded-xl" style="display: none;">
-            <p class="text-gray-400 font-medium">No program targets match your query.</p>
-            <p class="text-xs text-gray-600 mt-1">Try testing other keywords or clearing the filter fields.</p>
+        <div class="mt-12 flex justify-center items-center gap-4 bg-gray-950 border border-gray-800 p-4 rounded-xl">
+            <button @click="page > 1 ? page-- : null" :disabled="page === 1" 
+                    class="px-4 py-2 bg-gray-900 rounded-lg text-sm border border-gray-700 disabled:opacity-40 disabled:cursor-not-allowed hover:bg-gray-800">
+                Previous
+            </button>
+            <span class="text-sm text-gray-400">
+                Page <span class="text-white font-bold" x-text="page"></span> of <span class="text-white font-bold" x-text="totalPages"></span>
+            </span>
+            <button @click="page < totalPages ? page++ : null" :disabled="page === totalPages" 
+                    class="px-4 py-2 bg-gray-900 rounded-lg text-sm border border-gray-700 disabled:opacity-40 disabled:cursor-not-allowed hover:bg-gray-800">
+                Next
+            </button>
         </div>
     </main>
 
@@ -118,13 +109,14 @@
                 sourceFilter: 'ALL',
                 sortBy: 'title',
                 allPrograms: [],
+                page: 1,
+                perPage: 30,
 
                 init() {
-                    // Pull asynchronous generated JSON payload 
                     fetch('./data.json')
                         .then(res => res.json())
                         .then(data => { this.allPrograms = data; })
-                        .catch(err => console.error("Error retrieving synchronized catalog dataset: ", err));
+                        .catch(err => console.error("Error retrieving dataset payload: ", err));
                 },
 
                 get filteredPrograms() {
@@ -138,11 +130,20 @@
                             return matchQuery && matchSource;
                         })
                         .sort((a, b) => {
-                            if (this.sortBy === 'max_bounty' || this.sortBy === 'total_awarded') {
-                                return b[this.sortBy] - a[this.sortBy];
+                            if (this.sortBy === 'max_bounty') {
+                                return b.max_bounty - a.max_bounty;
                             }
                             return a.title.localeCompare(b.title);
                         });
+                },
+
+                get totalPages() {
+                    return Math.ceil(this.filteredPrograms.length / this.perPage) || 1;
+                },
+
+                get paginatedPrograms() {
+                    const start = (this.page - 1) * this.perPage;
+                    return this.filteredPrograms.slice(start, start + this.perPage);
                 }
             }
         }
