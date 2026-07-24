@@ -39,14 +39,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/epicgames-vdp",
     "targets": [
-      "*.psynet.gg",
-      "audica-prod-admin.hmxwebservices.com",
-      "*.harmonixmusic.com",
-      "*.oncatapult.com",
-      "Sketchfabripping\"3Dmodel/mesh/texture/etc.contentoutofthe3Dwebviewer",
-      "*.superbeatsports.com",
-      "FortniteLauncher-Win64-Shipping_BE.exe",
-      "api.epicgames.dev"
+      "*.3lateral.com",
+      "autodiscover.harmonixmusic.com",
+      "FortniteClient-Mac-Shipping.app",
+      "*.unrealtournament.com",
+      "*.easy.ac",
+      "FortniteLauncher-Win64-Shipping.exe",
+      "*.quixel.com",
+      "*.fortnite.com"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -63,11 +63,11 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/phonepe_vdp",
     "targets": [
-      "business.phonepe.com",
       "www.indusappstore.com",
-      "www.share.market",
+      "business.phonepe.com",
+      "developer.indusappstore.com",
       "support.phonepe.com",
-      "developer.indusappstore.com"
+      "www.share.market"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -85,13 +85,13 @@
     "url": "https://hackerone.com/mcgrawhill",
     "targets": [
       "mheducation.com",
-      "mhhe.com",
       "tegrity.com",
-      "mhprofessional.com",
       "boardsbeyond.com",
-      "mhcampus.com",
+      "mhhe.com",
+      "mhprofessional.com",
       "mh.com",
-      "simnetonline.com"
+      "simnetonline.com",
+      "mhcampus.com"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -143,10 +143,10 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/gogo_vdp",
     "targets": [
+      "gogogenius.stage.gogoair.cloud",
       "www.*.gogoair.*.com",
       "www.aeroxr.com",
-      "www.gogoair.com",
-      "gogogenius.stage.gogoair.cloud"
+      "www.gogoair.com"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -163,14 +163,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/coupang_tw",
     "targets": [
-      "cart.tw.coupang.com",
+      "notification-front-web.tw.coupang.com",
       "tw.coupang.com",
-      "pay.tw.coupang.com",
-      "rs-open-api.tw.coupang.com",
-      "mc.tw.coupang.com",
-      "helpseller.tw.coupangcorp.com",
-      "pages.tw.coupang.com",
-      "cmapi.tw.coupang.com"
+      "helpcenter-tw.coupangcorp.com",
+      "member.tw.coupang.com",
+      "logs-partners.tw.coupang.com",
+      "m.tw.coupang.com",
+      "marketplace.tw.coupangcorp.com",
+      "myself.tw.coupang.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -187,12 +187,12 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/getyourguide_vdp",
     "targets": [
-      "www.getyourguide.com",
-      "travelers-api.getyourguide.com",
       "com.getyourguide.mobile.GetYourGuide",
+      "travelers-api.getyourguide.com",
+      "widget.getyourguide.com",
+      "www.getyourguide.com",
       "partner.getyourguide.com",
-      "com.getyourguide.android",
-      "widget.getyourguide.com"
+      "com.getyourguide.android"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -209,14 +209,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/tbs-sct",
     "targets": [
-      "talent.canada.ca",
-      "api.signin-connexion.canada.ca",
+      "*.digital.canada.ca",
+      "*.notification.canada.ca",
       "*.numerique.canada.ca",
+      "forms-formulaires.alpha.canada.ca",
+      "*.cds-snc.ca",
+      "talent.canada.ca",
       "articles.alpha.canada.ca",
-      "issue-verify.alpha.canada.ca",
-      "design-system.alpha.canada.ca",
-      "design-system.canada.ca",
-      "*.digital.canada.ca"
+      "delivrance-verification.alpha.canada.ca"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -233,9 +233,9 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/bose_vdp",
     "targets": [
-      "support.bose.xx",
+      "bose.xx",
       "*.bose.xx",
-      "bose.xx"
+      "support.bose.xx"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -252,14 +252,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/mod_supply_chain_vdp",
     "targets": [
-      "panotour-e2s54d9.thorntontomasetti.com",
-      "IPrange62.172.162.48-62.172.162.63",
-      "explore.l3harris.com",
-      "tracer.thorntontomasetti.com",
-      "ballastcalc.thorntontomasetti.com",
-      "www.l3driver.com",
-      "ardeinc.com",
-      "em5260.careeralerts.thorntontomasetti.com"
+      "konstru.com",
+      "mc.thorntontomasetti.com",
+      "mx2.thorntontomasetti.com",
+      "encounter.thorntontomasetti.com",
+      "62.64.198.48/28",
+      "78.32.246.234",
+      "portal.partner.l3harris.com",
+      "t4.thorntontomasetti.com"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -276,12 +276,12 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/anduril_industries",
     "targets": [
-      "*.anduril.dev",
-      "*.andurildev.au",
+      "*.anduril.au",
       "*.andurildev.com",
-      "*.anduril.com",
       "*.anduril.com.au",
-      "*.anduril.au"
+      "*.andurildev.au",
+      "*.anduril.dev",
+      "*.anduril.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -299,10 +299,10 @@
     "url": "https://hackerone.com/cognition",
     "targets": [
       "*.cognition.ai",
-      "*.windsurf.com",
-      "deepwiki.com",
+      "*.devin.ai",
       "*.cognition.com",
-      "*.devin.ai"
+      "*.windsurf.com",
+      "deepwiki.com"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -319,8 +319,8 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/tines_automation_vdp",
     "targets": [
-      "tines.io",
-      "tines.com"
+      "tines.com",
+      "tines.io"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -337,10 +337,10 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/taxwell-vdp",
     "targets": [
-      "securefilepro.com",
-      "drakesoftware.com",
       "1040.com",
-      "taxact.com"
+      "taxact.com",
+      "drakesoftware.com",
+      "securefilepro.com"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -357,9 +357,9 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/luminor",
     "targets": [
-      "*.luminorgroup.com",
-      "*.luminor.lv",
       "*.luminor.lt",
+      "*.luminor.lv",
+      "*.luminorgroup.com",
       "*.luminor.ee"
     ],
     "bounty_eligible": false,
@@ -377,14 +377,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/twilio",
     "targets": [
-      "smtp.sendgrid.net",
-      "sendgrid.com",
       "Anyhost/webpropertyverifiedtobeownedbyTwilioetal.",
+      "api.twilio.com",
       "static*.twilio.com",
-      "app.sendgrid.com",
-      "mc.sendgrid.com",
+      "smtp.sendgrid.net",
+      "api.sendgrid.com",
+      "app.segment.com",
       "api.segment.io",
-      "signup.sendgrid.com"
+      "mc.sendgrid.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -401,8 +401,8 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/mufg-vdp",
     "targets": [
-      "*.mufg.jp",
-      "*.mufgamericas.com"
+      "*.mufgamericas.com",
+      "*.mufg.jp"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -419,14 +419,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/bankunited",
     "targets": [
-      "www.bridgefundinggroupinc.com",
-      "com.bankunited.leap",
+      "roc.bankunited.com",
+      "www.bankunited.com",
+      "wls.bankunited.com",
       "www.pinnaclepublicfinance.com",
-      "lockboxir.bankunited.com",
-      "snowapiprd.bankunited.com",
+      "exadqa.bankunited.com",
       "exadprd.bankunited.com",
-      "wlsqa.bankunited.com",
-      "com.leap.bankunited"
+      "buconnectny.bankunited.com",
+      "snowapiqa.bankunited.com"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -496,14 +496,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/henkel_vdp",
     "targets": [
-      "*.tabela-doboru-klejow.pl",
-      "*.myskpincentives.com",
-      "test-api.ar.magic-mirror.cn",
-      "*.schwarzkopf.*",
-      "*.henkel-reiniger.de",
-      "*.smartshelf.henkel.cn",
+      "*.syoss.ro",
       "*.colorsmith.ie",
-      "*.tangit.*"
+      "*.powercrete.com",
+      "*.sista-selladores.com",
+      "www.joico.eu/",
+      "*.shiseidoprofessionaledu.co.kr",
+      "*.pravana.com",
+      "*.devacurl.com"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -537,14 +537,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/robinhood_markets",
     "targets": [
-      "identi.robinhood.com",
-      "cashier.robinhood.com",
+      "nummus.robinhood.com",
+      "tradepmr.com",
       "*.robinhood.net",
-      "www.bitstamp.net",
-      "*.x1.co",
       "com.robinhood.android",
+      "oak.robinhood.net",
       "api.robinhood.com",
-      "*.rhinternal.net"
+      "com.robinhood.globalAndroid",
+      "com.robinhood.money"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -561,13 +561,13 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/robinhood",
     "targets": [
-      "identi.robinhood.com",
-      "cashier.robinhood.com",
+      "nummus.robinhood.com",
       "*.robinhood.net",
-      "www.bitstamp.net",
       "com.robinhood.android",
       "api.robinhood.com",
-      "*.rhinternal.net",
+      "com.robinhood.globalAndroid",
+      "com.robinhood.money",
+      "identi.robinhood.com",
       "insight2.tradepmr.com"
     ],
     "bounty_eligible": true,
@@ -602,12 +602,12 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/british_airways_vdp",
     "targets": [
-      "*.britishairways.com",
-      "com.britishairways.BAFlights",
-      "com.ba.mobile",
-      "*.ba.com",
       "Securityvulnerabilitiesthatareidentifiedindigitalpropertiesowned",
-      "www.britishairways.com"
+      "com.britishairways.BAFlights",
+      "*.ba.com",
+      "www.britishairways.com",
+      "*.britishairways.com",
+      "com.ba.mobile"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -641,14 +641,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/regions_financial",
     "targets": [
-      "regionsretirement.com",
-      "doingmoretoday.com",
+      "firststerling.com",
+      "regionssource.com",
+      "regionsqa.com",
       "sabal.com",
-      "regions.us",
-      "clearsightadvisors.com",
-      "regionsapps.com",
       "rgbk.com",
-      "firststerling.com"
+      "regionsretirement.com",
+      "clearsightadvisors.com",
+      "regions.us"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -665,9 +665,9 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/1win_com",
     "targets": [
-      "1w.run",
+      "1w.cash",
       "1win.com",
-      "1w.cash"
+      "1w.run"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -701,14 +701,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/tucows_vdp",
     "targets": [
-      "*.ascio.com",
-      "*.tucowsdomains.com",
-      "*.ting.com",
       "*.hover.com",
+      "*.ting.com",
+      "*.tucowsdomains.com",
       "*.wavelo.com",
       "*.exacthosting.com",
+      "*.ascio.com",
       "*.tingmobile.com",
-      "*.simplybits.com"
+      "*.opensrs.com"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -725,8 +725,8 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/banco_plata",
     "targets": [
-      "*.platacard.mx",
       "*.bancoplata.mx",
+      "*.platacard.mx",
       "dif.tech.plata"
     ],
     "bounty_eligible": true,
@@ -761,8 +761,8 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/hack_the_box",
     "targets": [
-      "labs.hackthebox.com",
-      "api.jobs.hackthebox.com"
+      "api.jobs.hackthebox.com",
+      "labs.hackthebox.com"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -779,14 +779,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/meesho_bbp",
     "targets": [
-      "com.meesho.supply",
+      "prod.meeshoapi.com",
+      "affiliate.meesho.com",
       "superstoreapp.meesho.com",
-      "supplier.meesho.com",
-      "meesho.io",
-      "www.meesho.com",
+      "www.valmo.in",
       "com.valmo.valmo",
-      "admin.meeshosupply.com",
-      "investor.meesho.com"
+      "supplier.meesho.com",
+      "investor.meesho.com",
+      "www.meesho.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -803,14 +803,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/kaseya",
     "targets": [
-      "*.infocyte.com",
-      "*.datto.com",
-      "*.backupify.com",
-      "*.trumethods.com",
-      "*.inky.com",
+      "*.liveconnect.me",
+      "*.kaseya.com",
+      "*.auditforit.com",
+      "*.365command.com",
       "*.rapidfiretools.com",
-      "*.spanning.com",
-      "*.centrastage.net"
+      "*.autotask.net",
+      "*.idagent.com",
+      "*.connectit.com"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -829,8 +829,8 @@
     "targets": [
       "api.lovable.dev",
       "mcp.lovable.dev",
-      "lovable.dev",
-      "oauth.lovable.dev"
+      "oauth.lovable.dev",
+      "lovable.dev"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -864,9 +864,9 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/kong",
     "targets": [
+      "konghq.com",
       "SubdomainTakeover-konghq.com",
-      "developer.konghq.com",
-      "konghq.com"
+      "developer.konghq.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -900,9 +900,9 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/worldpay",
     "targets": [
-      "www.accessmyiq.com",
       "docs.worldpay.com",
-      "www.virtualterminal.com"
+      "www.virtualterminal.com",
+      "www.accessmyiq.com"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -919,8 +919,8 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/hertz",
     "targets": [
-      "*.hertz.com",
-      "*hertz.io"
+      "*hertz.io",
+      "*.hertz.com"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -938,13 +938,13 @@
     "url": "https://hackerone.com/qinetiq",
     "targets": [
       "*.naimuri.com",
-      "Securityvulnerabilitiesfoundinanydigitalassetsowned",
-      "209.91.67.142/32",
-      "www.naimuri.com",
+      "airaffairs.com.au",
+      "192.150.204.0/24",
+      "*.qinetiq.cloud",
+      "85.159.174.0/23",
       "www.qinetiq.com",
-      "*.qinetiq.ca",
-      "185.76.95.0/24",
-      "85.159.168.0/22"
+      "qinetiq.com.au",
+      "192.102.214.0/24"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -978,11 +978,11 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/vf-corporation-vdp",
     "targets": [
-      "*.vans.com",
       "*.vfc-int.com",
       "*.timberland.com",
-      "*.vfc.com",
-      "*.thenorthface.com"
+      "*.vans.com",
+      "*.thenorthface.com",
+      "*.vfc.com"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -1016,14 +1016,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/ferrero",
     "targets": [
-      "www.ferrero-genussmomente.de",
-      "*.fiestaferrero.it",
-      "*.crunchbar.com",
       "*.pocketcoffee.it",
-      "ge63-ferreropp.web.oxv.fr",
+      "quality-fulfil-promo-de-2025.ipaasferrero.com",
+      "*.famousamos.com",
+      "quality-pingui-gratistesten-de-2025.ipaasferrero.com",
+      "*.fiestaferrero.it",
       "backtoschool2024.ferreropromo.it",
-      "www.eatnatural-promo.de",
-      "*.motherscookies.com"
+      "*.fulfilnutrition.com",
+      "quality-gratistesten-2025-de-2025.ipaasferrero.com"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -1108,14 +1108,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/whoop_bug_bounty",
     "targets": [
-      "com.whoop.android",
-      "api.prod.whoop.com",
-      "app.whoop.com",
-      "join.whoop.com",
-      "WHOOP4.0STRAP",
       "com.whoop.iphone",
+      "app.whoop.com",
+      "WHOOP5.0/MGSTRAP",
+      "join.whoop.com",
       "shop.whoop.com",
-      "WHOOP5.0/MGSTRAP"
+      "api.prod.whoop.com",
+      "WHOOP4.0STRAP",
+      "com.whoop.android"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -1149,13 +1149,13 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/hubspot",
     "targets": [
-      "api*.hubapi.com",
-      "api*.hubspot.com",
-      "*.hubspotemail.net",
-      "*.hubspotpagebuilder.eu",
-      "*.hubspotpagebuilder.com",
-      "app*.hubspot.com",
       "hubspot.net",
+      "*.hubspotpagebuilder.com",
+      "*.hubspotemail.net",
+      "chatspot.ai",
+      "*.hubspotpagebuilder.eu",
+      "app*.hubspot.com",
+      "api*.hubapi.com",
       "*.hs-sites(-eu1)?.com"
     ],
     "bounty_eligible": true,
@@ -1173,14 +1173,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/alibaba_vdp",
     "targets": [
-      "*.aliexpress.com",
-      "*.alibabagroup.com",
-      "*.ele.me",
-      "*.uc.cn",
-      "*.shuqireader.com",
       "www.lazada.*sixcountry",
       "*.tudou.com",
-      "*.dingtalk.com"
+      "*.cainiao.com",
+      "*.sm.cn",
+      "*.1688.com",
+      "*.9apps.com",
+      "*.alisports.com",
+      "*.ele.me"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -1197,14 +1197,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/oppo_bbp",
     "targets": [
-      "com.oplus.aimemory",
+      "com.heytap.wallet",
+      "com.heytap.wearable.breeno",
       "com.katanlabs.bubblepop",
-      "opposhop.cn",
-      "com.oppo.store",
-      "com.heytap.browser",
-      "com.heytap.reader",
-      "com.oplus.games",
-      "com.heytap.xgame"
+      "com.heytap.pictorial",
+      "com.heytap.wearable.themestore",
+      "com.heytap.miniapp.sports",
+      "com.heytap.ocsp.client",
+      "com.heytap.store"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -1239,13 +1239,13 @@
     "url": "https://hackerone.com/bill_vdp",
     "targets": [
       "com.divvypay.Divvy",
-      "app.divvy.co",
-      "*.2go.com",
-      "app.bill.com",
-      "com.bdc.bill",
       "*.divvy.co",
+      "*.2go.com",
+      "app.divvy.co",
+      "com.bdc.bill",
       "*.bill.com",
-      "com.invoice2go.invoice2goplus"
+      "com.invoice2go.invoice2goplus",
+      "app.bill.com"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -1262,11 +1262,11 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/bcny",
     "targets": [
-      "thebrowser.company",
       "arc.net",
-      "diabrowser.com",
+      "thebrowser.company",
+      "company.thebrowser.arc",
       "bcny.com",
-      "company.thebrowser.arc"
+      "diabrowser.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -1283,14 +1283,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/penn_entertainment",
     "targets": [
-      "hollywoodcasino.com",
-      "thescore.bet",
-      "com.fivemobile.thescore",
-      "*.thescore.com",
-      "pennplaycasino.com",
       "thescore.com",
-      "pennentertainment.com",
-      "about.thescore.bet"
+      "hollywoodcasino.com",
+      "thescoreesports.com",
+      "about.thescore.bet",
+      "*.thescore.com",
+      "com.fivemobile.thescore",
+      "pennplaycasino.com",
+      "thescore.bet"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -1360,9 +1360,9 @@
     "targets": [
       "login.starbucks.co.jp",
       "www.starbucks.co.jp",
+      "cart.starbucks.co.jp",
       "gift.starbucks.co.jp",
-      "www.cart.starbucks.co.jp/",
-      "cart.starbucks.co.jp"
+      "www.cart.starbucks.co.jp/"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -1396,14 +1396,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/adevinta_vdp",
     "targets": [
+      "subito.it",
       "fotocasa.pro",
-      "infojobs.it",
-      "null-leasing.com",
-      "www.kleinanzeigen.de",
-      "www.automobile.it",
+      "2dehands.be",
+      "www.coches.net",
+      "multigestionale.com",
+      "jobmarketinsights.com",
       "datavenues.com",
-      "kijiji.ca",
-      "www.infojobs.net"
+      "kijiji.ca"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -1422,10 +1422,10 @@
     "targets": [
       "manage-cdn.recreation.gov",
       "com.bah.r1s",
-      "manage.recreation.gov",
-      "recreation.gov",
       "www.recreation.gov",
+      "recreation.gov",
       "cdn.recreation.gov",
+      "manage.recreation.gov",
       "com.bah.r1smobile"
     ],
     "bounty_eligible": false,
@@ -1443,14 +1443,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/syfe_bbp",
     "targets": [
-      "alfred-uat-31.nonprod.syfe.com",
       "alfred.syfe.com",
-      "api.syfe.com",
       "www.syfe.com",
-      "uat-bugbounty.nonprod.syfe.com",
+      "alfred-uat-31.nonprod.syfe.com",
+      "mark8.syfe.com",
+      "api.syfe.com",
       "api-uat-bugbounty.nonprod.syfe.com",
-      "com.syfe",
-      "mark8.syfe.com"
+      "uat-bugbounty.nonprod.syfe.com",
+      "com.syfe"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -1467,14 +1467,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/pepsico_vdp",
     "targets": [
-      "204.136.98.0/23",
-      "pepviz.com",
-      "simplyfritolay.com",
-      "*.pureleaf.com",
-      "204.136.116.0/24",
-      "165.197.180.0/24",
-      "198.231.23.0/24",
-      "165.197.112.0/23"
+      "204.136.96.0/23",
+      "snacks.com",
+      "204.136.118.0/24",
+      "198.231.17.0/24",
+      "*.joy-pepsico.eu",
+      "lifewtr.com",
+      "popcorners.com",
+      "sabra.com"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -1491,14 +1491,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/aws_vdp",
     "targets": [
-      "*.newworld.com",
-      "*.people.aws.com",
-      "*.amazongames.com",
-      "AmazonAppStream2.0",
-      "*.lostark.games.aws.dev",
-      "*.gaming.amazon.com",
+      "*.aws.dev",
+      "*.agslauncher.com",
+      "*.sa.aws.dev",
       "*.people.aws.dev",
-      "*.lambda-url.*.on.aws"
+      "*.people.aws.com",
+      "*.tsologic.com",
+      "AWSSDKfor.NET",
+      "*.agscollab.com"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -1515,14 +1515,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/nba-public",
     "targets": [
-      "mcd-dev.nba.com",
-      "sky.wnba.com",
-      "fortwayne-dev.gleague.nba.com",
-      "liberty-qa.wnba.com",
-      "storm.wnba.com",
-      "bal-qa.nba.com",
-      "stats-dev.nba.com",
-      "core-api-aws-qa.nba.com"
+      "auth-identity.nba.com",
+      "lakeland-qa.gleague.nba.com",
+      "socialimpact.nba.com",
+      "wings-qa.wnba.com",
+      "cdn-gleague.nba.com",
+      "aces-qa.wnba.com",
+      "sparks-qa2.wnba.com",
+      "core-api-aws-uat.nba.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -1539,14 +1539,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/hpe_vdp",
     "targets": [
-      "h22238.www2.it.hpe.com",
-      "eprime1.wip.it.hpe.com",
-      "api-prx-stg-sgw.itcs.hpe.com",
-      "snr-srv-ext-itg.it.hpe.com",
-      "elite1.wip.it.hpe.com",
-      "ocldevglobalext1.it.hpe.com",
-      "oclglobalextone.wip.it.hpe.com",
-      "aoe-ext1-itg.it.hpe.com"
+      "*hpqcorp.*",
+      "ocllocalextone1-vip.it.hpe.com",
+      "entitlement-itg-ui-ext.it.hpe.com",
+      "ngq-itg1-ext.it.hpe.com",
+      "epes-web-pro-edit-glb.wip.it.hpe.com",
+      "file-upload-download-itg.it.hpe.com",
+      "entitlement-prd-ui-ext.wip.it.hpe.com",
+      "eop-pro-web.wip.it.hpe.com"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -1563,14 +1563,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/itau_unibanco",
     "targets": [
-      "seguros.itau.co",
-      "*.itau",
-      "imulherempreendedora.com.br",
-      "tarjetaregalo.oca.com.uy",
-      "itaupersonnalite.com.br",
-      "unibanco.com.br",
-      "investshop.com.br",
-      "ion.itau"
+      "contacto.itau.co",
+      "itauprivatebank.com.br",
+      "planosaudeitau.com.br",
+      "useredepay.com.br",
+      "itaucorretorapro.com.br",
+      "jovemdefuturo.org.br",
+      "itauassetmanagement.com.br",
+      "hipercard.com.br"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -1656,11 +1656,11 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/mintel",
     "targets": [
-      "*.mintel.co.uk",
-      "*.mintel.cloud",
-      "*.mintel.com",
       "*.gnpd.com",
-      "*.comperemedia.com"
+      "*.mintel.co.uk",
+      "*.comperemedia.com",
+      "*.mintel.cloud",
+      "*.mintel.com"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -1677,13 +1677,13 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/circle-bbp",
     "targets": [
-      "app.circle.com",
-      "rpc.drpc.testnet.arc.network",
-      "rpc.testnet.arc.network",
-      "console.circle.com",
       "rpc.blockdaemon.testnet.arc.network",
+      "console.circle.com",
+      "rpc.testnet.arc.network",
+      "rpc.drpc.testnet.arc.network",
       "api.circle.com",
-      "rpc.quicknode.testnet.arc.network"
+      "rpc.quicknode.testnet.arc.network",
+      "app.circle.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -1700,9 +1700,9 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/lpl_financial-vdp",
     "targets": [
-      "lpl.com",
+      "advisoryworld.com",
       "DomainswhereLPLFinancialislistedastheRegistrantOrganization",
-      "advisoryworld.com"
+      "lpl.com"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -1719,11 +1719,11 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/peloton",
     "targets": [
-      "cosmos.onepeloton.com",
-      "cosmos-stage.onepeloton.com",
-      "cms.onepeloton.com",
       "www.onepeloton.com",
-      "qa1-cms.onepeloton.com"
+      "cms.onepeloton.com",
+      "cosmos-stage.onepeloton.com",
+      "qa1-cms.onepeloton.com",
+      "cosmos.onepeloton.com"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -1740,9 +1740,9 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/varonis",
     "targets": [
-      "*.varonis.io",
       "*.varonis.com",
-      "*.varonis.net"
+      "*.varonis.net",
+      "*.varonis.io"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -1759,14 +1759,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/ion",
     "targets": [
-      "*.api-alt.seleritycorp.com",
-      "*.exportinsider.com",
-      "qmlservices.com",
-      "*.timequities.com",
-      "*.list-group.it",
-      "avcjjapan.com",
-      "openlinkdevtest.com",
-      "acurisdatasolutions.com"
+      "*.avcjusa.com",
+      "langfuse.spaziodati.eu",
+      "*.avcjrealassets.com",
+      "*.kyribanow.com",
+      "*.wealthmonitor.com",
+      "wallstreetsystems.us",
+      "*.listgroup.biz",
+      "sdrfix.com"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -1783,13 +1783,13 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/klarna",
     "targets": [
-      "klarnacdn.net",
-      "portal.openbanking.playground.klarna.com",
-      "KlarnaAndroidApp(com.myklarnamobile)",
-      "api.klarna.com",
-      "KlarnaiOSApp(com.klarna.app)",
+      "app.klarna.com",
       "xs2a.banking.playground.klarna.com",
-      "klarna.net",
+      "portal.openbanking.playground.klarna.com",
+      "api.klarna.com",
+      "KlarnaAndroidApp(com.myklarnamobile)",
+      "pricerunner.com",
+      "KlarnaiOSApp(com.klarna.app)",
       "js.klarna.com"
     ],
     "bounty_eligible": true,
@@ -1807,14 +1807,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/unico_idtech",
     "targets": [
-      "openfinance.unico.io",
-      "*.uat.unico.app",
-      "blog.unico.io",
-      "backend-sdk.uat.private.unico.run",
-      "devcenter.unico.io",
+      "idpay-uat.unico.io",
       "idcash-uat.unico.io",
       "identityhomolog.acesso.io",
-      "idpay-uat.unico.io"
+      "accountshomolog.acesso.io",
+      "blog.unico.io",
+      "backend-sdk.uat.private.unico.run",
+      "issuer.idpay-uat.unico.io",
+      "devcenter.unico.io"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -1831,12 +1831,12 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/wallet_on_telegram",
     "targets": [
-      "wallettg.com",
-      "wallettg.net",
       "walletbot.me",
-      "pay.wallet.tg",
+      "wallettg.com",
+      "wallet.tg",
       "p2p.walletbot.me",
-      "wallet.tg"
+      "wallettg.net",
+      "pay.wallet.tg"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -1853,8 +1853,8 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/tomtom",
     "targets": [
-      "*.tomtomgroup.com",
       "*.tomtom-global.com",
+      "*.tomtomgroup.com",
       "*.tomtom.com"
     ],
     "bounty_eligible": false,
@@ -1890,13 +1890,13 @@
     "url": "https://hackerone.com/singlestore",
     "targets": [
       "authsvc.singlestore.com",
-      "mcp.singlestore.com",
       "auth.singlestore.com",
+      "api.singlestore.com",
+      "mcp.singlestore.com",
       "nimbus-gateway.singlestore.com",
       "backend.singlestore.com",
-      "singlestore.com",
-      "*.svc.singlestore.com",
-      "api.singlestore.com"
+      "phone-home.singlestore.com",
+      "*.svc.singlestore.com"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -1913,10 +1913,10 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/lowes",
     "targets": [
-      "lowes.com",
       "com.lowes.LowesStore",
-      "com.LowesAndroid",
-      "com.lowes.LowesStoreTestFlight"
+      "com.lowes.LowesStoreTestFlight",
+      "lowes.com",
+      "com.LowesAndroid"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -1969,13 +1969,13 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/corebridge_financial",
     "targets": [
-      "modeldsu-idp.dsu.corebridgefinancial.com",
-      "*.corebridgefinancial.com",
-      "rapid-rater.live.web.corebridgefinancial.com",
       "www.corebridgedirect.com",
+      "modeldsu-idp.dsu.corebridgefinancial.com",
       "*.valic.com",
       "www.connext.corebridgefinancial.com",
-      "corebridgefinancial.com"
+      "corebridgefinancial.com",
+      "rapid-rater.live.web.corebridgefinancial.com",
+      "*.corebridgefinancial.com"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -2009,14 +2009,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/interco_vdp",
     "targets": [
-      "*.bancointer.com.br",
-      "*.duogourmet.com.br",
+      "*.usend.com",
+      "*.bmggranito.com.br",
       "*.granitosistemas.com.br",
-      "*.granito.xyz",
-      "*.pontualmt.net",
-      "br.com.Inter.CDPro",
       "*.granitopdv.com.br",
-      "*.bmggranito.com.br"
+      "*.enviouchegou.com",
+      "*.inter.co",
+      "*.pagoportal.com.br",
+      "*.pontualreports.net"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -2033,11 +2033,11 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/privy-bbp",
     "targets": [
-      "auth.privy.io",
-      "home.privy.io",
-      "api.privy.io",
       "dashboard.privy.io",
-      "recovery.privy.io"
+      "api.privy.io",
+      "home.privy.io",
+      "recovery.privy.io",
+      "auth.privy.io"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -2054,11 +2054,11 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/dailypay_vdp",
     "targets": [
+      "api.dpfriday.com",
       "api.dailypay.com",
-      "app.dailypay.com/",
       "extend-api.dailypay.com",
       "get.dailypay.com",
-      "api.dpfriday.com"
+      "app.dailypay.com/"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -2076,13 +2076,13 @@
     "url": "https://hackerone.com/netflix",
     "targets": [
       "*.nflximg.net",
-      "*.prod.ftl.netflix.com",
-      "*.nflxext.com",
-      "secure.netflix.com",
-      "ichnaea.netflix.com",
-      "help.netflix.com",
+      "*.prod.dradis.netflix.com",
+      "nmtracking.netflix.com",
       "*.nflxvideo.net",
-      "*.prod.cloud.netflix.com"
+      "meechum.netflix.com",
+      "help.netflix.com",
+      "*.nflxext.com",
+      "secure.netflix.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -2099,14 +2099,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/transunion",
     "targets": [
-      "idprotection.avg.com",
-      "*.transunioncentralamerica.com",
-      "cyberscouthq.com",
-      "*.chile.transunion.com",
-      "poc.ezshield.biz",
-      "*.zipcode.com.br",
-      "www.americanlegalmarketing.net",
-      "www.cs7protect.com"
+      "cmspvw.transunion.do",
+      "cmsstage.transunioncentralamerica.com",
+      "monitormyidentity.com",
+      "breachresponse.com",
+      "myidmanager.ca",
+      "*.transunion.co.uk",
+      "www.transunion.do",
+      "195.59.101.192/26"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -2124,9 +2124,9 @@
     "url": "https://hackerone.com/wellhive",
     "targets": [
       "login.wellhive.com",
+      "corporate-okta.wellhive.com",
       "analytics.wellhive.com",
-      "app.wellhive.com",
-      "corporate-okta.wellhive.com"
+      "app.wellhive.com"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -2143,14 +2143,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/23andme_bbp",
     "targets": [
-      "api.23andme.com",
+      "refer.23andme.com",
+      "you.23andme.com",
       "fulfillment.23andme.com",
+      "style.23andme.org",
       "store.23andme.org",
-      "trust.23andme.com",
-      "www.23andme.org",
-      "merch.23andme.com",
-      "23andmeresearchinstitute.org",
-      "style.23andme.org"
+      "auth.23andme.com",
+      "23andme.org/clinicians",
+      "api.23andme.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -2167,9 +2167,9 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/aeromexico_vdp",
     "targets": [
-      "*.aeromexico.com",
+      "www.aeromexico.com*",
       "*.amlab7.com",
-      "www.aeromexico.com*"
+      "*.aeromexico.com"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -2186,9 +2186,9 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/audible",
     "targets": [
-      "*.audible.(TLD)",
+      "tax.audible.com",
       "com.audible.application",
-      "tax.audible.com"
+      "*.audible.(TLD)"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -2206,9 +2206,9 @@
     "url": "https://hackerone.com/temu",
     "targets": [
       "ads.temu.com",
+      "www.temu.com",
       "seller.temu.com",
-      "com.einnovation.temu",
-      "www.temu.com"
+      "com.einnovation.temu"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -2225,14 +2225,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/vectra_ai_vdp",
     "targets": [
-      "*.vectra.ai",
-      "metadata.vectranetworks.com",
-      "vectra.ai",
       "rp.vectranetworks.com",
+      "*.vectra-svc.ai",
       "update2.vectranetworks.com",
+      "metadata.vectranetworks.com",
+      "*.vectra.ai",
       "vpn.vectranetworks.com",
       "api.vectranetworks.com",
-      "*.vectra-svc.ai"
+      "vectra.ai"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -2267,8 +2267,8 @@
     "url": "https://hackerone.com/bybit_fintech",
     "targets": [
       "*.bybit.com",
-      "*.bybit.tr",
-      "*.bybit.eu"
+      "*.bybit.eu",
+      "*.bybit.tr"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -2285,14 +2285,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/trip_com",
     "targets": [
-      "*.vliegwinkel.nl",
       "*.trip.biz",
-      "*.cheaptickets.nl",
-      "*.budgetair.com",
       "*.flugladen.de",
-      "com.trip.android",
-      "*.staging.travix.com",
-      "app.blueskytravelvietnam.com"
+      "*.travix.com",
+      "*.cheaptickets.nl",
+      "*.trainpal.com",
+      "*.budgetair.com",
+      "*.trip.com",
+      "<locale>.trip.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -2309,11 +2309,11 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/bykea",
     "targets": [
-      "bykea.com",
-      "com.bykea.pk",
       "com.bykea.pk.partner",
+      "tomoe.bykea.net",
       "*.bykea.net",
-      "tomoe.bykea.net"
+      "bykea.com",
+      "com.bykea.pk"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -2330,14 +2330,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/anthropic",
     "targets": [
-      "claude.ai",
-      "anthropic.atlassian.com",
-      "support.anthropic.com",
-      "github.com/anthropics",
+      "ClaudeDesktopExtensionsandClaude.aiMCPservers",
       "api.anthropic.com",
       "console.anthropic.com",
-      "ClaudeDesktopExtensionsandClaude.aiMCPservers",
-      "docs.anthropic.com"
+      "claude.ai",
+      "support.anthropic.com",
+      "docs.anthropic.com",
+      "anthropic.atlassian.com",
+      "github.com/anthropics"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -2371,14 +2371,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/aon",
     "targets": [
-      "aonwebbr.egslb.cmp.aon.com",
-      "uat-ws-ext.aon.fr",
-      "programs.aon.ca",
-      "www.aon.com.au",
-      "mdi-tr.staging.pms-ou.aon.com",
-      "peertracker.aon.com",
-      "segurosarg.aon.com",
-      "ward.aon.com"
+      "affinity.accessplansusa.com",
+      "mclagan.aon.com",
+      "radford.aon.com",
+      "humancapital.aon.com",
+      "bite-lt.staging.pms-ou.aon.com",
+      "66.203.198.100",
+      "aonsuretyhub.com",
+      "qa-assets.aon-hugeops.uk/"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -2395,14 +2395,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/oaknorth_bank",
     "targets": [
-      "*.oaknorth-prod.com",
-      "*.oaknorth.com",
-      "*.oaknorth.co.uk",
       "com.oaknorth.businessbanking",
-      "*.oaknorth.us",
-      "com.oaknorth.oaknorthmobilebanking",
+      "*.oaknorth-prod.com",
       "*.oaknorth-it.com",
-      "*.oaknorthbank.co.uk"
+      "com.oaknorth.oaknorthmobilebanking",
+      "*.oaknorthbank.co.uk",
+      "*.oaknorth.co.uk",
+      "*.oaknorth.com",
+      "*.oaknorth.us"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -2420,8 +2420,8 @@
     "url": "https://hackerone.com/aven_response",
     "targets": [
       "notary.aven.com",
-      "aven.com",
       "*.aven.com",
+      "aven.com",
       "my.aven.com"
     ],
     "bounty_eligible": false,
@@ -2439,14 +2439,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/visa",
     "targets": [
-      "www.visa.com.tw",
-      "vdam.visa.com",
-      "experience.prod.innovexperiments.com",
-      "developers.pismo.io",
-      "www.cybersource.com",
-      "cybersourcebouncebacks.visa.com",
-      "www.visa.co.id",
-      "merchantsignageap.visa.com"
+      "visa.co.za",
+      "bm.visa.com",
+      "sap.api-xperience.com",
+      "www.visa.co.ao",
+      "visa.com.ua",
+      "www.visa.co.ke",
+      "www.visa.com.my",
+      "visa.co.cr"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -2463,11 +2463,11 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/brightspeed",
     "targets": [
-      "*.brightspeed.com",
       "brightspeed.service-now.com",
-      "gobrightspeed.net",
       "brightspeedtsm.service-now.com",
-      "brightspeed.com"
+      "*.brightspeed.com",
+      "brightspeed.com",
+      "gobrightspeed.net"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -2484,14 +2484,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/toolsforhumanity",
     "targets": [
-      "*.worldcoin-distributors.com",
-      "worldcoin.org",
-      "*.toolsforhumanity.com",
-      "world.org",
-      "*.consumer.worldcoin.org",
       "toolsforhumanity.com",
+      "developer.worldcoin.org",
+      "*.worldcoin.dev",
+      "*.toolsforhumanity.com",
       "*.worldcoin.org",
-      "*.worldcoin.dev"
+      "*.consumer.worldcoin.org",
+      "*.worldcoin-distributors.com",
+      "worldcoin.org"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -2508,14 +2508,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/alshaya",
     "targets": [
-      "*.debenhams.sa",
-      "parallels.havelockone.com",
-      "kw.boots.com",
-      "*.paylessshoes.ae",
-      "*.starbucks.com.tr",
-      "*.alshaya.com",
-      "www.victoriassecretbeauty.ro",
-      "onlinepos.shaya.com.tr"
+      "suppliertraining.alshaya.com",
+      "www.pizzaexpresskw.com",
+      "cloudconnect.havelockone.com",
+      "*.westelm.com.sa",
+      "*.americaneagle.com.jo",
+      "*.potterybarnkids.com.kw",
+      "*.aura-mena.com",
+      "*.victoriassecret.ae"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -2532,11 +2532,11 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/ring",
     "targets": [
-      "com.immediasemi.android.blink",
       "com.ring.neighborhoods",
-      "publicsafety.ring.com",
       "com.ringapp",
-      "prd-ring-web-us.prd.rings.solutions"
+      "prd-ring-web-us.prd.rings.solutions",
+      "publicsafety.ring.com",
+      "com.immediasemi.android.blink"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -2570,14 +2570,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/six-group",
     "targets": [
-      "146.109.68.0/24",
-      "146.109.8.0/22",
-      "153.46.0.0/16",
-      "146.109.2.0/24",
-      "185.210.32.0/22",
-      "146.109.4.0/24",
+      "146.109.3.0/24",
       "174.44.253.152/29",
-      "146.109.141.0/24"
+      "146.109.150.0/24",
+      "146.109.143.0/24",
+      "153.46.30.0/23",
+      "146.109.66.0/24",
+      "62.192.20.16/29",
+      "146.109.161.0/24"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -2594,14 +2594,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/eufy_security",
     "targets": [
-      "com.eufylife.EufyHome",
-      "com.oceanwing.FDMPrint",
-      "com.anker.AnkerMake",
-      "com.security.BatteryCam",
       "com.oceanwing.battery.cam",
+      "com.anker.AnkerMake",
+      "com.eufylife.EufyHome",
       "com.anker.charging",
+      "com.security.BatteryCam",
+      "com.oceanwing.care.cam",
       "com.security.care",
-      "com.oceanwing.care.cam"
+      "com.oceanwing.FDMPrint"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -2637,14 +2637,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/fertitta_entertainment",
     "targets": [
-      "aqbeerfest.com",
-      "chefsdinners.com",
       "sanluisresort.com",
       "*.rocketball.com",
-      "pleasurepier.com",
-      "shoppostoak.com",
-      "hunttinginn.com",
-      "boardwalkfantasea.com"
+      "r-u-i.com",
+      "brennersfest.com",
+      "thepostoak.com",
+      "chefsdinners.com",
+      "aqbeerfest.com",
+      "shoppostoak.com"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -2661,14 +2661,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/mozilla",
     "targets": [
-      "hg.mozilla.org",
-      "support.mozilla.org",
-      "firefox-ci-tc.services.mozilla.com",
-      "accounts.firefox.com",
+      "phabricator.allizom.org",
+      "www.firefox.com",
+      "developer.mozilla.org",
       "lando.services.mozilla.com",
-      "bugzilla.mozilla.org",
-      "pontoon.allizom.org",
-      "monitor.mozilla.org"
+      "aus5.mozilla.org",
+      "crash-stats.allizom.org",
+      "support.mozilla.org",
+      "firefox.settings.services.mozilla.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -2685,8 +2685,8 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/stripchat",
     "targets": [
-      "*.stripchat.com",
-      "go.stripchat.com"
+      "go.stripchat.com",
+      "*.stripchat.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -2703,14 +2703,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/redox_bbp",
     "targets": [
-      "help.redoxengine.com",
-      "explore.redoxengine.com",
       "docs.redoxengine.com",
+      "fhir.redoxengine.com",
       "testapi.redoxengine.com",
-      "www.redoxengine.com",
+      "test*.redoxengine.com",
+      "explore.redoxengine.com",
       "10x.redoxengine.com",
       "testapp.redoxengine.com",
-      "test*.redoxengine.com"
+      "www.redoxengine.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -2727,8 +2727,8 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/okg",
     "targets": [
-      "*.okx.com",
-      "*.oklink.com"
+      "*.oklink.com",
+      "*.okx.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -2745,8 +2745,8 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/wisdomtree",
     "targets": [
-      "com.wisdomtree.wtprime",
-      "api.wisdomtreeprimeapp.com"
+      "api.wisdomtreeprimeapp.com",
+      "com.wisdomtree.wtprime"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -2763,10 +2763,10 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/pornbox",
     "targets": [
-      "www.analvids.com",
+      "www.pornworld.com",
       "www.ddfcontent.com",
       "www.pornbox.com",
-      "www.pornworld.com"
+      "www.analvids.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -2800,14 +2800,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/superbet",
     "targets": [
-      "*.luckydays.com",
-      "*.napoleongames.be",
+      "*.luckydays.ca",
+      "*.happening.dev",
+      "ro.superbet.sport",
+      "*.superbet.gr",
       "*.superbet.pl",
-      "*.superbet.rs",
-      "*.napoleoncasino.be",
-      "*.spinaway.com",
-      "*.superbet.com",
-      "*.luckydays.ca"
+      "*.luckydays.com",
+      "*.superbet.ro",
+      "superbet.bet.br"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -2824,14 +2824,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/abn_amro_vdp",
     "targets": [
+      "*.abnamro.nl",
+      "*.new10.com",
+      "com.abnamro.nl.buut",
       "*.abnamroinvestmentsolutions.com",
-      "*.getbux.com",
-      "*.bux.com",
-      "*.abnamrocomfin.com",
-      "*neuflizeobc.fr",
-      "*.abnamro.org",
-      "*.bux2b.com",
-      "*.abnamro.nl"
+      "*.abnamro.be",
+      "www.buut.com",
+      "*abnamroprivatebanking.be",
+      "*.alfam.nl"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -2884,10 +2884,10 @@
     "url": "https://hackerone.com/boozt",
     "targets": [
       "kronor.io",
-      "*.boozt.com",
+      "com.boozt.app",
       "com.boozt",
       "*.booztlet.com",
-      "com.boozt.app",
+      "*.boozt.com",
       "com.booztlet",
       "com.boozt.booztlet"
     ],
@@ -2907,13 +2907,13 @@
     "url": "https://hackerone.com/us-department-of-state",
     "targets": [
       "*.AMERICA.GOV",
-      "*.PREPRODFAN.GOV",
-      "*.SECURITYTESTFAN.GOV",
-      "*.FSGB.GOV",
-      "*.SUPPORTFAN.GOV",
+      "*.USEMBASSY.GOV",
       "*.STATE.GOV",
-      "*.USCONSULATE.GOV",
-      "*.REWARDSFORJUSTICE.NET"
+      "*.PEPFAR.GOV",
+      "*.usvisascheduling.com",
+      "*.SUPPORTFAN.GOV",
+      "*.FSGB.GOV",
+      "*.ELGUARDIA.NET"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -2930,8 +2930,8 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/sheer_bbp",
     "targets": [
-      "my.sheer.com",
-      "www.sheer.com"
+      "www.sheer.com",
+      "my.sheer.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -2950,10 +2950,10 @@
     "targets": [
       "apix.vodafone.om",
       "vfo03.vodafone.om",
-      "www.vodafone.om",
-      "vfo01.vodafone.om",
       "vfo02.vodafone.om",
-      "om.vodafone.mva"
+      "om.vodafone.mva",
+      "www.vodafone.om",
+      "vfo01.vodafone.om"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -2988,14 +2988,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/kkr_vdp",
     "targets": [
-      "advisortimetracker.kkr.com",
+      "kkrpec.com",
+      "portal.kkr.com",
+      "processaccess.kkr.com",
       "*.kkr.cloud",
-      "*.kkr.com",
-      "www.fskkradvisor.com",
       "kkr.com",
       "ksam.com",
-      "www.kkrfunds.com",
-      "www.kkresg.com"
+      "*.kkr.com",
+      "www.kkrfunds.com"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -3012,11 +3012,11 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/intuit_rdp",
     "targets": [
-      "*.quickbooks.com",
-      "*.mailchimp.com",
+      "*.turbotax.com",
       "*.mint.com",
       "*.intuit.com",
-      "*.turbotax.com"
+      "*.mailchimp.com",
+      "*.quickbooks.com"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -3033,14 +3033,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/fifth_third_bank_vdp",
     "targets": [
-      "r53comerica.net",
-      "manageprovide.com",
-      "dividendfinance.com",
-      "ztc.nube.53.com",
-      "api.newline53.com",
-      "zta.nube.53.com",
+      "*53.com",
+      "ifsservices.com",
+      "celticfinance.com",
+      "express.53.com",
+      "comerica.com",
+      "www.53.com",
       "sandbox.newline53.com",
-      "ifsservices.com"
+      "lendeavor.com"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -3057,14 +3057,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/indrive",
     "targets": [
-      "cargo.indrive.com",
-      "inc-cf.*.aws.indriverapp.com",
+      "new-order.eu-east-1.indriverapp.com",
       "external.indrive.dev",
-      "ingest.clairvoyance.indrive.tech",
-      "ab-platform-api.eu-east-1.indriverapp.com",
-      "cht-cf.*.aws.indriverapp.com",
-      "indrive.com",
-      "pr*.indriverapp.com"
+      "file-storage-front.eu-east-1.indriverapp.com",
+      "wd2*.indriverapp.com",
+      "web.ryadom.kz",
+      "sn-api-cf.*.aws.indriverapp.com",
+      "was-gw-cf.*.aws.indriverapp.com",
+      "cas-cf.*.aws.indriverapp.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -3081,14 +3081,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/amazonvrp-devices",
     "targets": [
-      "com.amazon.tahoe.freetime",
-      "com.amazon.dee.alexaonwearos",
-      "read.amazon.com",
+      "com.amazon.dee.app",
+      "alexa.amazon.com",
+      "www.amazon.com/photos/*",
       "amazon.com/hz/mycd/*",
       "com.amazon.kindle",
+      "com.amazon.tails",
       "developer.amazon.com/alexa/*",
-      "com.amazon.dee.app",
-      "com.amazon.tails"
+      "skills-store.amazon.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -3124,8 +3124,8 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/mergify",
     "targets": [
-      "api.mergify.com",
-      "dashboard.mergify.com"
+      "dashboard.mergify.com",
+      "api.mergify.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -3142,10 +3142,10 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/coinhako",
     "targets": [
+      "com.coinhako",
       "com.coinhako.app",
       "www.coinhako.com",
-      "help.coinhako.com",
-      "com.coinhako"
+      "help.coinhako.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -3162,14 +3162,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/arkose_labs",
     "targets": [
-      "demo.arkoselabs.com",
-      "portal.arkoselabs.com",
-      "client-api.arkoselabs.com",
       "iframe.arkoselabs.com",
+      "demo.arkoselabs.com",
       "customer-sessions.arkoselabs.com",
-      "verify.arkoselabs.com",
       "cdn.arkoselabs.com",
-      "www.arkoselabs.com"
+      "client-api.arkoselabs.com",
+      "portal.arkoselabs.com",
+      "www.arkoselabs.com",
+      "verify.arkoselabs.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -3204,14 +3204,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/abb",
     "targets": [
-      "bol.abb.com.cn",
-      "icare.abb.com.cn",
-      "*.baldor.com",
-      "ebadge.abb.com",
-      "*.abb.de",
-      "industrialsolutions.hu.abb.com",
-      "gatewaytest.baldor.abb.com",
-      "memdcelvpn-americas.abb.com"
+      "industrialsolutions.br.abb.com",
+      "portal-cr01.abilityplatform02.abb.com.cn",
+      "cn-s-zevpxm1.cn.abb.com",
+      "genixpilotpaen.abb.com.cn",
+      "library.e.abb.com",
+      "nz.abb.com",
+      "na.abb.com",
+      "in.inside.abb.com"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -3228,14 +3228,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/avalara",
     "targets": [
-      "*.davosalestax.com",
-      "*.inposia.com",
-      "*.certexpress.com",
-      "*.track1099.com",
+      "*.ttrus.com",
+      "*.avalara.io",
+      "*.avalarabrasil.com.br",
       "*.avalara.com",
-      "*.crowdreason.com",
+      "*.netleglobal.com",
+      "*.inposia.com",
       "*.avalara.net",
-      "*.3ce.com"
+      "*.papercrane.io"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -3252,8 +3252,8 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/alsco",
     "targets": [
-      "sandbox.securegateway.com",
-      "sandbox-royal.securegateway.com"
+      "sandbox-royal.securegateway.com",
+      "sandbox.securegateway.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -3270,12 +3270,12 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/abercrombie_fitch_bbp",
     "targets": [
-      "abercrombie.com",
-      "anfcorp.com",
-      "com.abercrombie.hollister",
       "hollisterco.com",
       "com.abercrombie.abercrombie",
-      "corporate.abercrombie.com"
+      "anfcorp.com",
+      "com.abercrombie.hollister",
+      "corporate.abercrombie.com",
+      "abercrombie.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -3292,12 +3292,12 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/abercrombie_fitch",
     "targets": [
-      "abercrombie.com",
-      "anfcorp.com",
-      "com.abercrombie.hollister",
       "hollisterco.com",
       "com.abercrombie.abercrombie",
-      "corporate.abercrombie.com"
+      "anfcorp.com",
+      "com.abercrombie.hollister",
+      "corporate.abercrombie.com",
+      "abercrombie.com"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -3314,8 +3314,8 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/city_of_los_angeles_vdp",
     "targets": [
-      "*.lacity.gov",
-      "*.lacity.org"
+      "*.lacity.org",
+      "*.lacity.gov"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -3332,14 +3332,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/resmed",
     "targets": [
-      "myair.resmed.eu",
-      "resmed.la",
-      "www.citushealth.com",
-      "resmed.com.cn",
-      "patient.propellerhealth.biz",
-      "produktion.api.praxispad.de/",
-      "provider.propellerhealth.biz",
-      "referenzkunden.api.praxispad.de"
+      "app.citushealth.ca",
+      "shop.resmed.com",
+      "resmed.co.uk",
+      "resmed.vn",
+      "resmed.sg",
+      "resmed.com.br",
+      "sigmacare.com",
+      "resupply.resmed.com"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -3356,10 +3356,10 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/yuga_labs",
     "targets": [
-      "*.boredapeyachtclub.com",
-      "*.otherside.xyz",
       "*.yugalabs.io",
-      "*.yuga.com"
+      "*.boredapeyachtclub.com",
+      "*.yuga.com",
+      "*.otherside.xyz"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -3394,8 +3394,8 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/notion",
     "targets": [
-      "notion.id",
       "calendar.notion.so",
+      "notion.id",
       "mail.notion.so"
     ],
     "bounty_eligible": true,
@@ -3413,14 +3413,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/daimler_truck",
     "targets": [
-      "mobile-int.fleetboard.com",
-      "access.mbs-navigator.com",
-      "aisa-prod.weu.treasure.daimlertruck.com",
-      "api.retailnet.daimlertruck.com",
+      "developer-portal.prod.cloud.fleetboard.com",
       "connect3.fleetboard.com",
-      "afab.tsac.daimlertruck.com",
-      "developer-tst.fleetboard.com",
-      "driversnewsletter.fleetboard.com"
+      "api.dev.csgna.csg.daimlertruck.com",
+      "iot-discovery-int.fleetboard.com",
+      "dfbsvmdc05.intranet.fleetboard.com",
+      "3dviewer.daimlertruck.com",
+      "iot-discovery-prod.fleetboard.com",
+      "qv-qa.dtbsa.co.za"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -3437,8 +3437,8 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/canada_goose_inc",
     "targets": [
-      "api.canadagoose.com",
       "service.canadagoose.com",
+      "api.canadagoose.com",
       "canadagoose.com"
     ],
     "bounty_eligible": false,
@@ -3456,9 +3456,9 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/monarch_money",
     "targets": [
-      "app.monarchmoney.com",
+      "com.monarchmoney.mobile",
       "www.monarchmoney.com",
-      "com.monarchmoney.mobile"
+      "app.monarchmoney.com"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -3475,14 +3475,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/clarivate",
     "targets": [
-      "centrivor.com",
-      "dtc-pharma.com",
-      "consultingdrgroup.com",
-      "openbusinesslibrary.com",
-      "markmknitor.com",
-      "bio-trendssurveys.com",
-      "patentcopy.com",
-      "clarivate.co.in"
+      "g-factory.com",
+      "genderwatch.com",
+      "manuscriptcntral.com",
+      "derwent-drug-file.com",
+      "isiwok.com",
+      "compumark.cf",
+      "portfolioip.com",
+      "patentresources.de"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -3517,14 +3517,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/metamask",
     "targets": [
-      "io.metamask",
+      "io.metamask.Metamask",
+      "wallet.web3auth.io",
+      "metamask.io",
       "api-wallet.web3auth.io",
       "snaps.metamask.io",
-      "metamask.io",
-      "*.api.cx.metamask.io",
-      "io.metamask.Metamask",
       "signature-insights.api.cx.metamask.io",
-      "wallet.web3auth.io"
+      "*.api.cx.metamask.io",
+      "io.metamask"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -3541,9 +3541,9 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/floqast",
     "targets": [
-      "api-eu.floqast.app",
+      "*.floqast.app",
       "*.eu.floqast.app",
-      "*.floqast.app"
+      "api-eu.floqast.app"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -3560,11 +3560,11 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/callsign",
     "targets": [
-      "b2b.s02.callsign.com",
       "com.callsign.app.android",
+      "b2b.s02.callsign.com",
+      "app.s02.callsign.com",
       "*.s02.callsign.com",
-      "southfields-v2.s02.t00-csglobal.a2develop.com",
-      "app.s02.callsign.com"
+      "southfields-v2.s02.t00-csglobal.a2develop.com"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -3599,14 +3599,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/ro",
     "targets": [
-      "*.hellorory.com",
-      "*.ropharmacy.com",
       "*.getroman.com",
+      "my.ro.co",
       "*.ro.co",
       "*.modernfertility.com",
-      "my.ro.co",
-      "*.kit.ro.co",
-      "*.myplenity.com"
+      "*.myplenity.com",
+      "start.ro.co",
+      "login.ro.co",
+      "*.ropharmacy.com"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -3623,14 +3623,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/unitigroup",
     "targets": [
-      "*.windstream.com",
-      "my.gokinetic.com",
-      "windstreamwholesale.com",
-      "gokinetic.com",
-      "www.windstream.com",
       "*.windstream.net",
       "*unitibenefits.com",
-      "*unitisolutions.com"
+      "my.gokinetic.com",
+      "unitiwholesale.com",
+      "paetec.net",
+      "windstreamwholesale.com",
+      "*uniti.com",
+      "www.windstream.com"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -3664,13 +3664,13 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/ripio",
     "targets": [
-      "com.ripio.android",
+      "com.ripio.ios",
       "trade.ripio.com",
+      "com.ripio.android",
       "*ripiotrade.co",
-      "sandbox-b2b.ripio.com",
       "defi.ripio.com",
       "*ripio.com",
-      "com.ripio.ios"
+      "sandbox-b2b.ripio.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -3687,11 +3687,11 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/deribit",
     "targets": [
-      "test.deribit.com",
-      "com.deribit",
+      "pb.deribit.com",
       "insights.deribit.com",
       "*.deribit.com",
-      "pb.deribit.com"
+      "test.deribit.com",
+      "com.deribit"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -3708,14 +3708,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/fidelity",
     "targets": [
-      "*.fidelity.com",
       "*.streetscape.com",
-      "com.fmr.eca.android.wealthscapeinvestor",
-      "*.mystreetscape.com",
-      "www.fidsafe.com",
+      "*.wealthscape.com",
+      "com.fidelity.hcg.health",
+      "com.fidelity.nbmobile",
       "com.fidelity.wi.activity",
+      "mobi.wealthscapeinvestor",
       "com.fidelity.android",
-      "com.fmr.eca.android.wealthscape"
+      "*.advisorchannel.com"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -3733,8 +3733,8 @@
     "url": "https://hackerone.com/sorare",
     "targets": [
       "ws.sorare.com",
-      "api.sorare.com",
-      "sorare.com"
+      "sorare.com",
+      "api.sorare.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -3785,14 +3785,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/disney",
     "targets": [
-      "disneyauditions.com",
-      "disneytravelagents.com",
-      "espn.com",
-      "abcspotdepot.com",
-      "disneyland.disney.go.com",
-      "www.shanghaidisneyresort.com",
       "com.espn.score_center",
-      "dvc-lightcycle-api.wdprapps.disney.com"
+      "espn.com",
+      "www.shanghaidisneyresort.com.cn",
+      "disneyauditions.com",
+      "dvc-lightcycle-api.wdprapps.disney.com",
+      "shanghaidisneyresort.com.cn",
+      "disneyland.disney.go.com",
+      "disneyvacationclub.disney.go.com"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -3810,13 +3810,13 @@
     "url": "https://hackerone.com/alohi",
     "targets": [
       "plus.sign.android",
-      "*.sign.plus",
-      "plus.sign.SignPlus",
-      "*.fax.plus",
       "www.alohi.com",
       "plus.fax.android",
+      "*.fax.plus",
       "plus.scan.android",
-      "plus.fax.FaxPlus"
+      "plus.sign.SignPlus",
+      "*.sign.plus",
+      "plus.scan.ScanPlus"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -3833,14 +3833,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/hilton",
     "targets": [
-      "*.hiltonbusinessonline.com",
+      "121.200.237.36/29",
+      "resmax.hilton.com",
+      "*.hilton.com",
+      "192.251.124.0/24",
+      "hilton.io",
+      "hilton.com",
       "82.196.42.196/28",
-      "203.79.37.2/29",
-      "hiltonbusinessonline.com",
-      "192.251.123.0/24",
-      "hiltonlocalbiz.com",
-      "167.187.0.0/16",
-      "resmax.hilton.com"
+      "192.251.126.0/24"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -3857,11 +3857,11 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/gymshark",
     "targets": [
+      "*.gymsharkapps.io",
+      "*.gymshark.com",
       "*.gymshark.io",
       "com.gymshark.fitness",
-      "com.gymshark.store",
-      "*.gymsharkapps.io",
-      "*.gymshark.com"
+      "com.gymshark.store"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -3878,13 +3878,13 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/moov",
     "targets": [
-      "infra-oss.moov.io",
-      "moov.io",
-      "oss.moov.io",
       "dashboard.moov.io",
+      "gateway.moov.io",
       "api.moov.io",
+      "oss.moov.io",
+      "infra-oss.moov.io",
       "cards.moov.io",
-      "gateway.moov.io"
+      "moov.io"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -3901,14 +3901,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/vodafone",
     "targets": [
-      "*.vodafone.de",
-      "*.vodafone.cz",
-      "*.mobile.securenet.vodafone.es",
+      "*.vfpt.pt",
+      "*.lowi.es",
+      "*.vodafonepark.com.tr",
+      "*.automotive.vodafone.com",
+      "*.vodafone.ie",
+      "*.vodacom.co.tz",
       "*.abcom.al",
-      "*.securenet.vodafone.es",
-      "*.unitymedia.de",
-      "*.iot.vodafone.al",
-      "*.mobile.securenet.vodafone.gr"
+      "*.automotive.vodafone.co.uk"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -3960,14 +3960,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/wellsfargo-bbp",
     "targets": [
-      "*.wellsfargo.com",
-      "*.advisor-connection.com",
-      "com.wellsfargo.ceomobile",
-      "connect.secure.wellsfargo.com",
+      "com.wf.mobilebanking",
+      "com.wf.ceomobile",
       "com.wf.wellsfargomobile",
+      "*.advisor-connection.com",
+      "*.wellsfargo.com",
       "homeloans.wellsfargo.com",
-      "*.wellsfargoadvisors.com",
-      "com.wf.mobilebanking"
+      "com.wellsfargo.ceomobile",
+      "accountoffers.wellsfargo.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -3984,14 +3984,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/allegion",
     "targets": [
-      "com.allegion.cisa.openxkey",
-      "zentra.co",
+      "com.allegion.leopard",
+      "www.simons-voss.com",
+      "www.yonomi.com",
+      "com.simonsvoss.mobilekey.key4android",
+      "www.interflex.de",
       "www.krytonitelock.com",
-      "*.allegionengage.com",
-      "www.gainsboroughhardware.com.au",
-      "com.schlage.overtur",
-      "www.specadsystems.com",
-      "www.simons-voss.com"
+      "briouk.com",
+      "www.republicdoor.com"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -4008,8 +4008,8 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/wickr",
     "targets": [
-      "www.wickr.com",
-      "admin.wickr.com"
+      "admin.wickr.com",
+      "www.wickr.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -4026,12 +4026,12 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/pagerduty",
     "targets": [
-      "pentest-uat.pushbot.com",
+      "events.pagerduty.com",
+      "hackerone.stg.runbook.pagerduty.cloud",
       "www.pagerduty.com",
       "api.pagerduty.com",
-      "events.pagerduty.com",
       "*.pagerduty.com",
-      "hackerone.stg.runbook.pagerduty.cloud"
+      "pentest-uat.pushbot.com"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -4048,12 +4048,12 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/oanda",
     "targets": [
-      "*.tms.pl",
       "*.tmsbrokers.com",
-      "*.oanda.jp",
-      "*.coinpass.com",
+      "*.tms.pl",
       "*.oanda.com",
-      "com.oanda.fxtrade"
+      "com.oanda.fxtrade",
+      "*.coinpass.com",
+      "*.oanda.jp"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -4070,9 +4070,9 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/payoneer",
     "targets": [
+      "myaccount.payoneer.com",
       "payoneer.com.cn",
       "myaccount-cn.payoneer.com",
-      "myaccount.payoneer.com",
       "*.payoneer.com"
     ],
     "bounty_eligible": true,
@@ -4090,13 +4090,13 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/tesco",
     "targets": [
-      "*.tesco.com/*",
-      "com.tesco.grocery.view",
-      "*.tesco.sk/*",
       "*.itesco.cz/*",
-      "*.tesco.hu/*",
       "*.tesco.org/*",
+      "*.tesco.sk/*",
+      "com.tesco.grocery.view",
+      "*.tescoplc.com/*",
       "*.tesco.ie/*",
+      "*.tescocloud.com/*",
       "*.ourtesco.com/*"
     ],
     "bounty_eligible": false,
@@ -4134,14 +4134,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/moonpay",
     "targets": [
-      "app.moonpay.com",
-      "auth.moonpay.com",
-      "web3.moonpay.com",
       "*.moonpaycloud.com",
+      "web3.moonpay.com",
+      "app.moonpay.com",
+      "moonpay.com",
+      "*.moonpay.com",
       "*.hypermint.com",
-      "buy.moonpay.com",
       "hypermint.com",
-      "api.moonpay.com"
+      "buy.moonpay.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -4158,14 +4158,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/koho",
     "targets": [
-      "clicks.koho.ca",
       "app.koho.ca",
       "usercontent.koho.ca",
       "ca.koho",
-      "login.koho.ca",
+      "clicks.koho.ca",
       "web.koho.ca",
       "www.koho.ca",
-      "assets.koho.ca"
+      "assets.koho.ca",
+      "login.koho.ca"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -4182,9 +4182,9 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/veeam",
     "targets": [
-      "*.veeam.com",
+      "*.kasten.io",
       "*.veeamgov.com",
-      "*.kasten.io"
+      "*.veeam.com"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -4201,11 +4201,11 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/redis-vdp",
     "targets": [
-      "api.redislabs.com",
-      "www.redis.com",
       "www.redislabs.com",
+      "redis.io",
+      "www.redis.com",
       "app.redislabs.com",
-      "redis.io"
+      "api.redislabs.com"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -4239,14 +4239,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/mondelez",
     "targets": [
-      "suchard.bg",
-      "concorsomikadosummernights.it",
-      "www.winwithphilly.fi",
-      "fruehling-knacken.milka.de",
-      "belvitasnacks.com",
-      "oboy.eu",
-      "enjoylifefoods.com",
-      "promo.milka.com"
+      "virtualhiringassistant.mondelezinternational.com",
+      "mitiendamondelez.com.ar",
+      "smukfest.marabou.dk",
+      "eu.clifbar.com",
+      "oreosocolapie.com",
+      "figaro.cz",
+      "promo.royalcontigo.com",
+      "tw.oreosea.com"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -4263,14 +4263,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/inspectorio",
     "targets": [
-      "rise.stg.inspectorio.com",
-      "report-html-sight.stg.inspectorio.com",
-      "docuflow.stg.inspectorio.com",
       "files-stg.inspectorio.com",
+      "app.stg.inspectorio.com",
+      "report-html-sight.stg.inspectorio.com",
       "id.stg.inspectorio.com",
+      "docuflow.stg.inspectorio.com",
       "api.stg.inspectorio.com",
-      "rise-api.stg.inspectorio.com",
-      "app.stg.inspectorio.com"
+      "rise.stg.inspectorio.com",
+      "rise-api.stg.inspectorio.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -4288,11 +4288,11 @@
     "url": "https://hackerone.com/capital-one-bounty",
     "targets": [
       "*.capitaloneshopping.com",
-      "*.capitalone.ca",
       "*.capitalone.com",
       "*.capitalonegslbex.com",
       "com.wikibuy.prod.main",
-      "com.konylabs.capitalone"
+      "com.konylabs.capitalone",
+      "*.capitalone.ca"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -4309,13 +4309,13 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/apnic",
     "targets": [
-      "203.133.248.0/22",
-      "rsync.apnic.net",
-      "*.isif.asia",
+      "*.seedalliance.net",
       "ftp.apnic.net",
-      "registry-testbed.apnic.net",
-      "nori.apnic.net",
+      "rsync.apnic.net",
       "*.apnic.foundation",
+      "stats.labs.apnic.net",
+      "*.apidt.org",
+      "nori.apnic.net",
       "*.apnic.net"
     ],
     "bounty_eligible": false,
@@ -4350,12 +4350,12 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/razorpay",
     "targets": [
-      "payroll.razorpay.com",
-      "invoices.razorpay.com",
       "dashboard.razorpay.com",
       "checkout.razorpay.com",
-      "x.razorpay.com",
-      "api.razorpay.com"
+      "invoices.razorpay.com",
+      "payroll.razorpay.com",
+      "api.razorpay.com",
+      "x.razorpay.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -4372,8 +4372,8 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/hy-vee",
     "targets": [
-      "*.hy-vee.com",
-      "*.hy-vee.cloud"
+      "*.hy-vee.cloud",
+      "*.hy-vee.com"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -4390,10 +4390,10 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/zooplus",
     "targets": [
-      "www.zooplus.co.uk",
       "zooplus.net",
       "www.zooplus.de",
-      "www.zooplus.com"
+      "www.zooplus.com",
+      "www.zooplus.co.uk"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -4427,8 +4427,8 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/sega",
     "targets": [
-      "games2gether.com",
       "redeem.footballmanager.com",
+      "games2gether.com",
       "community.twopointcounty.com"
     ],
     "bounty_eligible": false,
@@ -4446,10 +4446,10 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/newegg",
     "targets": [
-      "com.newegg.app",
       "pmtcards.newegg.com",
       "sellerportal.newegg.com",
-      "secure.newegg.ca"
+      "secure.newegg.ca",
+      "com.newegg.app"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -4484,10 +4484,10 @@
     "url": "https://hackerone.com/fastly-vdp",
     "targets": [
       "docs.fastly.com",
-      "*.fanout.io",
       "*.signalsciences.com",
-      "manage.fastly.com",
-      "api.fastly.com"
+      "*.fanout.io",
+      "api.fastly.com",
+      "manage.fastly.com"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -4504,8 +4504,8 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/servicenow-disclosure",
     "targets": [
-      "*.lightstep.com",
       "*.service-now.com",
+      "*.lightstep.com",
       "*.servicenow.com"
     ],
     "bounty_eligible": false,
@@ -4523,14 +4523,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/zurich-insurance",
     "targets": [
-      "*.zurich.com.ar",
-      "*.zurichseguros.com.ec",
-      "*.rcis.com",
+      "*.foremost.com",
+      "*.dentolo.de",
+      "*.zurichbank.it",
+      "*.zurich.com.my",
       "*.21st.com",
-      "*.zurich.co.ae",
-      "*.farmerslife.com",
-      "*.zurich.co.jp",
-      "*.covermore.com"
+      "*.travelguard.com",
+      "*.zurich.co.uk",
+      "*.foremoststar.com"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -4547,14 +4547,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/krisp",
     "targets": [
-      "api.krisp.ai",
-      "help.krisp.ai",
-      "download.krisp.ai",
-      "resources.krisp.ai",
-      "*.krisp.ai",
-      "analytics.krisp.ai",
+      "help-jp.krisp.ai",
+      "upld.krisp.ai",
       "app.krisp.ai",
-      "upld.krisp.ai"
+      "teams.krisp.ai",
+      "account.krisp.ai",
+      "help.krisp.ai",
+      "krisp.ai",
+      "analytics.krisp.ai"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -4571,12 +4571,12 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/whatnot",
     "targets": [
-      "api.whatnot.com",
       "www.whatnot.com",
+      "*.whatnot.com",
       "com.whatnot_mobile",
       "live-service.whatnot.com",
       "auction-service.whatnot.com",
-      "*.whatnot.com"
+      "api.whatnot.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -4593,13 +4593,13 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/latamairlines",
     "targets": [
-      "chat.latamairlines.com",
       "smcloud.appslatam.com",
-      "payflow.appslatam.com",
-      "srtlatam.appslatam.com",
-      "cosmos-vision.appslatam.com",
-      "supportdispatch.appslatam.com",
       "crew-wallet.intg.appslatam.com",
+      "airtalk.appslatam.com",
+      "payflow.appslatam.com",
+      "portaltf.appslatam.com",
+      "supportdispatch.appslatam.com",
+      "cosmos-vision.appslatam.com",
       "acintra.appslatam.com"
     ],
     "bounty_eligible": false,
@@ -4617,14 +4617,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/khealth",
     "targets": [
-      "*.novanthealthvirtualprimarycare.org",
-      "org.hartfordhealthcare.hhc247",
-      "*.mgbcareconnect.org",
-      "*.hhc247.org",
-      "*.khealth-test.com",
-      "*.northwellprimarycarenow.com",
+      "*.csconnect.org",
       "*.pennmedicine.connect-visit.com",
-      "*.csconnect.org"
+      "*.primarycareondemand.mayoclinic.org",
+      "*.khealth-test.com",
+      "*.novanthealthvirtualprimarycare.org",
+      "*.hmh247.org",
+      "org.hartfordhealthcare.hhc247",
+      "*.northwellprimarycarenow.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -4642,8 +4642,8 @@
     "url": "https://hackerone.com/smtp2go",
     "targets": [
       "api.smtp2go.com",
-      "app.smtp2go.com",
-      "smtp2go.com"
+      "smtp2go.com",
+      "app.smtp2go.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -4660,14 +4660,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/jetblue",
     "targets": [
+      "book.jetblue.com",
+      "api.jetblue.com",
       "jetbluevacations.com",
-      "magnolia.jetblue.com",
-      "www.truebluetravel.com/",
-      "www.jetblue.com",
-      "help.jetblue.com",
       "movil.jetblue.com",
-      "*.jetblue.com",
-      "api.jetblue.com"
+      "www.jetblue.com",
+      "accounts.jetblue.com",
+      "checkin.jetblue.com",
+      "*.jetblue.com"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -4703,14 +4703,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/zebra_vdp",
     "targets": [
-      "polski.zebra.com",
-      "*.toolsportal.zebra.com",
       "italiano.zebra.com",
-      "software.symbol.com",
-      "*.elotouch.com",
+      "*.cortexica.com",
       "*.pp.zebra.com",
-      "*.zebramwe.com",
-      "francais.zebra.com"
+      "*.toolsportal.zebra.com",
+      "*.zebrasports.com",
+      "www.zebracanada.com",
+      "francais.zebra.com",
+      "*.cvsltc.reflexisinc.com"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -4727,14 +4727,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/fiserv",
     "targets": [
-      "evault2-web.fiservapps.com",
-      "hub-uat.fiservapp.com",
+      "mid-americabank-admin.originate.fiservapps.com",
       "business-direct.gyft.com",
-      "deepwaterind-admin.originate.fiservapps.com",
-      "dovetail-hwb-btat2.fiservapps.com",
-      "hefcu-admin.originate.fiservapps.com",
-      "minsterbank.onlinebank.com",
-      "bankvista.configure-cert.fiservapps.com"
+      "mngateway.fiservapis.com",
+      "pode.robo.secureinternetbank.com",
+      "statuspageauth.fiservapps.com",
+      "connect-euw1.emea.ns1.fiservapis.com",
+      "prod-apigee-fiservapps-x-usc1.ns1.fiservapis.com",
+      "ebankstar.onlinebank.com"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -4752,8 +4752,8 @@
     "url": "https://hackerone.com/ups",
     "targets": [
       "*.ups-mi.com",
-      "*.ups-tms.com",
-      "*.ups.com"
+      "*.ups.com",
+      "*.ups-tms.com"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -4770,14 +4770,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/playtika",
     "targets": [
-      "*.wooga.com",
-      "com.youdagames.monopolypoker",
-      "fi.reworks.redecor",
-      "bestfiends.com",
-      "air.com.playtika.slotomania",
       "com.playtika.caesarscasino",
-      "gnocchi-www.buffalo-ggn.net",
-      "net.wooga.junes_journey_hidden_object_mystery_game"
+      "*.boardkingsgame.com",
+      "com.wooga.pearlsperil",
+      "*.caesarsgames.com",
+      "*.governorofpoker.com",
+      "com.Seriously.BestFiends",
+      "*.monopoly-poker.com",
+      "bestfiends.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -4811,14 +4811,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/john-deere",
     "targets": [
-      "_dmarc.wirtgen.co.jp",
-      "explore.deere.com",
-      "api-meubanco.deere.com",
-      "mtx01b.wirtgen-group.com",
-      "_dmarc.wirtgenamerica.com",
-      "diewirtgengroupaufderbauma.de",
-      "www.spark.ai",
-      "fleetview-dev.witos.wirtgen-group.com"
+      "enterpriseregistration.hamm.eu",
+      "_dmarc.wirtgen.com.hk",
+      "autodiscover.monosemusa.com",
+      "srm.services.wirtgen-group.com",
+      "all.arcgis-prod-new-1191849026.us-east-1.elb.amazonaws.com",
+      "_dmarc.wirtgengroupbauma.de",
+      "autoconfig.kingagro.com.ar",
+      "parts-dev.wirtgen-group.com"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -4835,14 +4835,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/trendyol",
     "targets": [
-      "www.trendyol.com",
-      "www.tgoyemek.com",
-      "com.trendyol.go",
+      "com.trendyol.milla.android",
+      "www.trendyol-milla.com",
       "com.dolap.android",
+      "com.trendyol.go",
       "trendyol.com",
       "www.dolap.com",
-      "www.trendyol-milla.com",
-      "com.trendyol.milla.android"
+      "www.trendyol.com",
+      "www.tgoyemek.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -4859,12 +4859,12 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/mtb",
     "targets": [
-      "com.mtb.mbanking.sc.retail.prod",
       "*.trustnota.com",
       "*.leafnow.com",
+      "*.wilmingtontrust.com",
       "com.mtb.mobilebanking.ncr",
       "*.mtb.com",
-      "*.wilmingtontrust.com"
+      "com.mtb.mbanking.sc.retail.prod"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -4881,14 +4881,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/dib-vdp",
     "targets": [
-      "flightpakdev.northropgrumman.com",
-      "24.214.204.54",
-      "guam.ca.essd.northgrum.com",
-      "44.28.232.63",
-      "uag-west.myngc.com",
-      "52.244.51.177",
-      "oda.myngc.com",
-      "smartbuy-dev.myngc.com"
+      "157.127.141.109/32",
+      "74.142.203.236",
+      "50.212.68.245",
+      "odadev.myngc.com",
+      "webmail.ngc.com",
+      "ma-edge-access.marsys.ngc.com",
+      "ginkgo.ca.essd.northgrum.com",
+      "imap.cybermyte.io"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -4905,10 +4905,10 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/global-payments",
     "targets": [
-      "bleepplc.co.uk",
-      "EVOPayments",
       "developer.globalpay.com",
-      "pcamerica.com"
+      "pcamerica.com",
+      "bleepplc.co.uk",
+      "EVOPayments"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -4926,9 +4926,9 @@
     "url": "https://hackerone.com/blackrock",
     "targets": [
       "69.52.0.0/16",
-      "*.ishares.com",
       "*.blackrock.com",
-      "*.isharesonline.com"
+      "*.isharesonline.com",
+      "*.ishares.com"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -4945,14 +4945,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/costco",
     "targets": [
-      "*.costco.com",
-      "*.costco.ca",
-      "www.costco.ca",
+      "*.costcotravel.com",
+      "www.costcotravel.ca",
       "www.costcotravel.com",
-      "www.costcobusinesscentre.ca",
-      "com.costco.costco",
+      "*.costcotravel.ca",
+      "www.costco.com",
+      "*.costco.com",
       "*.costcobusinessdelivery.com",
-      "*.costcotravel.ca"
+      "www.costcobusinessdelivery.com"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -4969,10 +4969,10 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/on",
     "targets": [
-      "on.com",
+      "*.on.com",
       "on-app-backend.on.com",
       "on-app-backend.on-running.com",
-      "*.on.com",
+      "on.com",
       "*.on-running.com"
     ],
     "bounty_eligible": false,
@@ -4990,11 +4990,11 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/hypr-corp",
     "targets": [
+      "com.hypr.one",
+      "HYPRWorkforceAccess.app",
       "HyprUnlock.exe",
       "*.gethypr.com",
-      "*.hypr.com",
-      "HYPRWorkforceAccess.app",
-      "com.hypr.one"
+      "*.hypr.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -5011,14 +5011,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/mars",
     "targets": [
-      "*.royalcanin.com",
-      "*.shoproyalcanin.com",
       "*.findroyalcanin.com",
-      "*.monespaceeleveur.fr",
-      "*.royalcaninevent.com",
-      "*.royalcanin.co.uk",
-      "*.puntosroyaltyrc.com.co",
-      "*.eukanuba-gt.com"
+      "banfieldexchange.com",
+      "*.miroyalcanin.com.ar",
+      "*.mivetshop.com.ar",
+      "marsbettertogetherfund.org",
+      "*.extragum.com",
+      "*.royalcanin.com.uy",
+      "*.royalrands.co.za"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -5035,10 +5035,10 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/who-covid-19-mobile-app",
     "targets": [
-      "org.who.WHOMyHealth",
-      "*.whocoronavirus.org",
       "int.who.WHOMyHealth",
-      "hack.whocoronavirus.org"
+      "hack.whocoronavirus.org",
+      "org.who.WHOMyHealth",
+      "*.whocoronavirus.org"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -5055,14 +5055,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/stripe",
     "targets": [
-      "api.taxjar.com",
-      "com.stripe.android.dashboard",
-      "www.stripe.partners",
-      "*.metronome.com",
-      "app.taxjar.com",
       "*.reckoproduction.com",
-      "api.stripe.com",
-      "js.stripe.com"
+      "com.stripe.android.dashboard",
+      "js.stripe.com",
+      "api.taxjar.com",
+      "*.recko.io",
+      "*.metronome.com",
+      "*.bridge.xyz",
+      "*.reckostaging.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -5096,8 +5096,8 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/emoney-advisor",
     "targets": [
-      "*.emaplan.com",
       "wealth.emaplan.com",
+      "*.emaplan.com",
       "*.emoneyadvisor.com"
     ],
     "bounty_eligible": false,
@@ -5115,14 +5115,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/paystack-vdp",
     "targets": [
-      "*.paystack.com",
-      "paystackintegrations.com",
-      "paystackmfb.com",
-      "com.paystack.zap",
-      "checkout.paystack.com",
       "standard.paystack.co",
-      "zap.money",
-      "*.paystackintegrations.com"
+      "api.paystack.co",
+      "*.paystack.com",
+      "*.paystackintegrations.com",
+      "paystackintegrations.com",
+      "com.paystack.zap",
+      "dashboard.paystack.com",
+      "paystackmfb.com"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -5139,14 +5139,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/freshworks",
     "targets": [
-      "yourdomain.freshservice.com",
       "yourdomain.freshcaller.com",
+      "com.freshservice.helpdesk",
+      "com.freshservice.helpdesk.intune",
       "yourdomain.myfreshworks.com",
-      "com.freshdesk.helpdesk",
-      "yourdomain.freshrelease.com",
-      "com.freshworks.freshcaller",
-      "yourdomain.freshchat.com",
-      "yourdomain.freshdesk.com"
+      "yourdomain.freshservice.com",
+      "com.freshchat.agent.android",
+      "yourdomain.freshdesk.com",
+      "yourdomain.freshrelease.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -5163,12 +5163,12 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/judgeme",
     "targets": [
-      "judge.me",
-      "woocommerce-adapter.judge.me",
       "bigcommerce-adapter.judge.me",
+      "insights.judgeme.dev",
       "cache.judge.me",
       "shop.judge.me",
-      "insights.judgeme.dev"
+      "judge.me",
+      "woocommerce-adapter.judge.me"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -5202,14 +5202,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/cbre",
     "targets": [
-      "smp.cbre.com",
-      "qa.api.marketiq.cbre.com",
-      "www.fmpilot2.com",
-      "wordpress.gallileo-frankfurt.com",
-      "www.sit01pace.cbre.com.au",
-      "regression-dat.fmpilot2.com",
-      "teamship.cbre.eu",
-      "www.cbretenantrep.com"
+      "fundq-local.cbre.com",
+      "aloha-api-docs.cbre.com",
+      "cdn-eu.host-building.com",
+      "prod.finishline.cbre.com",
+      "tr.gallileo-frankfurt.com",
+      "uat-www.cbrekorea.com",
+      "ecmprd.cbreim.com",
+      "uat-siif-config.cbreapps.com"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -5226,10 +5226,10 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/doppler",
     "targets": [
-      "share.doppler.com",
-      "api.doppler.com",
+      "dashboard.doppler.com",
       "doppler.team",
-      "dashboard.doppler.com"
+      "share.doppler.com",
+      "api.doppler.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -5246,14 +5246,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/grindr",
     "targets": [
-      "*.grindr.mobi",
-      "web.grindr.com",
-      "*.dev.grindr.io",
-      "*.grindr.com",
-      "com.grindrapp.android",
       "preprod1.grindr.com",
       "*.grindr.io",
-      "*.dev2.grindr.io"
+      "*.dev2.grindr.io",
+      "*.grindr.mobi",
+      "com.grindrapp.android",
+      "web.grindr.com",
+      "*.dev.grindr.io",
+      "*.grindr.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -5270,14 +5270,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/csg-public",
     "targets": [
-      "adm.cloud.com",
       "*developer.cloud.com",
-      "*.citrixworkspacesapi.net",
-      "accounts.cloud.com",
+      "onboarding.cloud.com",
       "ap-s.cloud.com",
+      "adm.cloud.com",
       "eu.cloud.com",
-      "onboarding-*.cloud.com",
-      "api.adm.cloud.com"
+      "us.cloud.com",
+      "api.adm.cloud.com",
+      "*.citrixworkspacesapi.net"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -5295,8 +5295,8 @@
     "url": "https://hackerone.com/xvideos",
     "targets": [
       "www.xvideos.com",
-      "www.xnxx.com",
       "www.xnxx.gold",
+      "www.xnxx.com",
       "www.xvideos.red"
     ],
     "bounty_eligible": true,
@@ -5314,14 +5314,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/anywhererealestate",
     "targets": [
-      "*.era.com",
-      "*.mycbdesk.com",
       "*.realogy.com",
-      "*.century21global.com",
       "*.trgc.com",
-      "*.anywhere.re",
+      "*.nrtllc.com",
       "*.c21.com",
-      "*.cbcworldwide.com"
+      "*.cartus.com",
+      "*.mycbdesk.com",
+      "*.coldwellbanker.com",
+      "*.era.com"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -5338,14 +5338,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/ohiosecretaryofstate",
     "targets": [
-      "*.electionintegrity.ohio.gov",
-      "*.ohiosos.gov",
-      "*.boe.ohio.gov",
       "*.militaryvotes.ohio.gov",
-      "*.vote.ohio.gov",
-      "*.sos.state.oh.us",
       "*.voteohio.gov",
-      "*.ohiobusinesscentral.gov"
+      "*.boe.ohio.gov",
+      "*.sos.state.oh.us",
+      "*.vote.ohio.gov",
+      "*.safeathomeohio.gov",
+      "*.ohiosos.gov",
+      "*.electionintegrity.ohio.gov"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -5362,8 +5362,8 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/openmage",
     "targets": [
-      "demo-admin.openmage.com",
-      "demo.openmage.org"
+      "demo.openmage.org",
+      "demo-admin.openmage.com"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -5380,14 +5380,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/8x8-bounty",
     "targets": [
-      "*.8x8staging.com",
-      "*.labs.8x8.com",
-      "*.thinkingphones.com",
-      "developer.8x8.com",
-      "*.call-control.ie",
-      "*.8x8hosts.pilot",
-      "*.preview.8x8.vc",
-      "*.8x8cloud.net"
+      "*.p8t.us",
+      "*.wavecell.com",
+      "*.acceptance.cloud.8x8.com",
+      "callroute.com",
+      "analytics-*.8x8.com",
+      "*.staging.cloud.8x8.com",
+      "*.unreal-agents.com",
+      "platform.8x8.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -5405,13 +5405,13 @@
     "url": "https://hackerone.com/tiktok",
     "targets": [
       "com.zhiliaoapp.musically",
+      "shop.tiktok.com",
+      "*.tiktokv.com",
+      "*.tiktok.com",
       "careers.tiktok.com",
-      "com.zhiliao.musically.livewallpaper",
-      "live-backstage.tiktok.com",
-      "developers.tiktok.com",
-      "*.tiktokcdn.com",
-      "www.soundon.global",
-      "creatormarketplace.tiktok.com"
+      "ads.tiktok.com",
+      "academy-outbound-ads.tiktok.com",
+      "www.pangleglobal.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -5428,14 +5428,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/estee-lauder",
     "targets": [
-      "www.maccosmetics.dcpm.elcompanies.com",
-      "www.thecosmeticscompanystore.elcompanies.com",
-      "qrp.elcompanies.com",
-      "www.jomalone.dcp.elcompanies.com",
-      "d2c.tomfordbeauty.co.uk",
+      "dms-external.elcompanies.com",
+      "d2c-register-middleware.elcompanies.co.uk",
+      "jade.elcompanies.com",
+      "xstr-ru-inventory-prod.eu.elcompanies.com",
+      "clubshop.elcompanies.com",
+      "owa-standby.am.elcompanies.com",
       "vto.clinique.com",
-      "qa-otm-pnp.elcompanies.com",
-      "ctp.elcompanies.cn"
+      "xstr-ru-inventory-dev.eu.elcompanies.com"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -5452,14 +5452,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/aig",
     "targets": [
-      "*.aig.co.jp",
-      "services.aig.co.il",
-      "www.americanhome.co.jp",
+      "*.aig.com",
       "www.aig.co.il",
-      "www.glatfelters.com",
-      "www.aig.com.br",
+      "www.aigportal.de",
+      "services.aig.co.il",
+      "www.aig.",
+      "*.aig.co.jp",
       "www.rapidcover.ie",
-      "www.vfisal.com"
+      "www.aig.com.br"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -5493,14 +5493,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/polygon-technology",
     "targets": [
-      "faucet.polygon.technology",
       "api-gateway.polygon.technology",
-      "portal.polygon.technology",
-      "staking.polygon.technology",
-      "faucet-api.polygon.technology/",
-      "api-polygon-tokens.polygon.technology/",
+      "staking-api.polygon.technology",
       "gasstation.polygon.technology/",
-      "staking-api.polygon.technology"
+      "faucet.polygon.technology",
+      "api-polygon-tokens.polygon.technology/",
+      "faucet-api.polygon.technology/",
+      "staking.polygon.technology",
+      "portal.polygon.technology"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -5534,14 +5534,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/vendasta",
     "targets": [
-      "task-manager.biz",
-      "customervoice.biz",
-      "your-domain.pdqs.mobi",
-      "your-domain.smblogin.com",
-      "your-domain.socialsmbs.com",
+      "*.vendasta-internal.com",
       "your-domain.steprep.com",
-      "your-domain.snapshotreport.biz",
-      "*.yesware.com"
+      "*.yesware.com",
+      "task-manager.biz",
+      "your-domain.smblogin.com",
+      "partners.vendasta.com",
+      "customervoice.biz",
+      "your-domain.pdqs.mobi"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -5558,13 +5558,13 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/insightly",
     "targets": [
-      "marketing.na1.insightly.com",
-      "mobileapi.insightly.com",
       "mobileapi.na1.insightly.com",
       "outlook.insightly.com",
+      "accounts.insightly.com",
+      "marketing.na1.insightly.com",
       "login.insightly.com",
       "crm.na1.insightly.com",
-      "accounts.insightly.com"
+      "mobileapi.insightly.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -5599,13 +5599,13 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/mendix",
     "targets": [
-      "mxpeople.mendixcloud.com",
-      "*.mendix.com",
-      "contributor.mendixcloud.com",
-      "*.timeseries.com",
-      "datalake-sync.apps.mendix.com",
+      "mxbpconfig.mendixcloud.com",
+      "gateway.us-east-1.sws.siemens.com",
+      "notification.billing.appservices.mendix.com",
+      "alm.mendixcloud.com",
       "dataprivacy.mendixcloud.com",
-      "deskallocation.mendixcloud.com",
+      "slm.store.mendix.com",
+      "3dvis.mendixcloud.com",
       "employees.mendix.com"
     ],
     "bounty_eligible": false,
@@ -5623,14 +5623,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/amazonvrp",
     "targets": [
-      "*.amazon.com.br",
-      "*.amazon.se",
-      "com.amazon.ihm.candycane",
-      "com.amazon.imdb.tv.mobile.app",
-      "com.amazon.vendormobile.india.android",
-      "*.amazon.com.co",
-      "*.amazon.com",
-      "com.amazon.primenow.seller.android"
+      "*.amazon.sg",
+      "*.amazon.in",
+      "*.amazon.cn",
+      "amazonpayinsurance.in",
+      "com.amazon.sft.rangoli.seller.app",
+      "com.amazon.ziggy.android",
+      "*.amazon.fr",
+      "com.amazon.flex.rabbit"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -5647,10 +5647,10 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/cs_money",
     "targets": [
-      "blog.cs.money",
-      "support.cs.money",
-      "cs.money",
       "wiki.cs.money",
+      "cs.money",
+      "support.cs.money",
+      "blog.cs.money",
       "3d.cs.money"
     ],
     "bounty_eligible": true,
@@ -5668,14 +5668,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/cedars-sinai",
     "targets": [
-      "*Hhapps.net",
-      "*sd.invio.dev",
-      "*SANGABRIELVALLEYHEALTHECONNECT.NET",
-      "*Hmhdr.org",
-      "*Huntingtonhealtheconnect.net",
+      "*huntingtonhospital.org",
       "*Huntingtonhealth.net",
-      "*Huntingtonhealthnetwork.net",
-      "*hhcareers.com"
+      "*Huntingtonrx.com",
+      "*Huntingtonhealtheconnect.com",
+      "*legacy.huntingtonhospital.org",
+      "*SANGABRIELVALLEYHEALTHECONNECT.NET",
+      "*Hmhrx.org",
+      "*Hmh-direct.com"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -5692,14 +5692,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/hostinger",
     "targets": [
-      "horizons.hostinger.com",
+      "reach.hostinger.com",
+      "agents.hostinger.com",
       "hpanel.hostinger.com",
-      "mail.hostinger.com/v2",
-      "cpanel.hostinger.com",
       "builder.hostinger.com",
       "www.hostinger.com",
-      "agents.hostinger.com",
-      "reach.hostinger.com"
+      "mail.hostinger.com/v2",
+      "horizons.hostinger.com",
+      "cpanel.hostinger.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -5716,14 +5716,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/shutterfly_vdp",
     "targets": [
-      "*.sbs.shutterfly.com",
+      "*.lifetouch.com",
+      "photo.walgreens.com",
+      "www.spoonflower.com",
       "*.shutterfly.com",
-      "snapfish.com.au",
       "com.shutterfly",
-      "snapfish.de",
-      "snapfish.ie",
-      "snapfish.it",
-      "*.photoccino.com"
+      "SnapfishPhotoTileWallDecor/com.snapfish-llc.SnapfishExpress",
+      "Snapfish:Prints+PhotoBooks/com.snapfish.mobile",
+      "prestigeportraits.com"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -5740,13 +5740,13 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/usps",
     "targets": [
-      "ncoa.usps.gov",
-      "www.usps.com",
-      "pi.usps.com",
-      "www.usps.gov",
-      "www.liteblue.usps.gov",
-      "gateway.usps.com",
       "iv.usps.com",
+      "pi.usps.com",
+      "www.usps.com",
+      "ncoa.usps.gov",
+      "www.usps.gov",
+      "moversguide.usps.com",
+      "retail-pi.usps.com",
       "id.usps.com"
     ],
     "bounty_eligible": false,
@@ -5764,11 +5764,11 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/shein",
     "targets": [
-      "*.romwe.com",
       "*.sheingsp.com",
-      "com.romwe",
+      "com.zzkko",
       "*.shein.com",
-      "com.zzkko"
+      "*.romwe.com",
+      "com.romwe"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -5819,14 +5819,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/td-bank",
     "targets": [
-      "*.tdwaterhouse.ca",
-      "*.mytdfinancing.com",
-      "*.tdcommercialbanking.com",
       "*.tdinsurance.com",
-      "*.tdbank.ca",
-      "*.tdsprimebrokerage.com",
+      "*.tdautofinance.com",
+      "*.tdrewards.com",
+      "*.td.com",
+      "*.tdassurance.com",
       "*.tdcanadatrust.com",
-      "*.tdafdealer.com"
+      "*.tdsprimebrokerage.com",
+      "*.mytdfinancing.com"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -5861,10 +5861,10 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/thnks",
     "targets": [
-      "api.thnks.com",
       "com.thnks.appstore",
-      "app.thnks.com",
-      "com.thnks"
+      "com.thnks",
+      "api.thnks.com",
+      "app.thnks.com"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -5881,8 +5881,8 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/myndr",
     "targets": [
-      "*.myndr.net",
       "*.myndr.nl",
+      "*.myndr.net",
       "www.myndr.nl"
     ],
     "bounty_eligible": false,
@@ -5901,10 +5901,10 @@
     "url": "https://hackerone.com/faraday_inc",
     "targets": [
       "buy.faraday.ai",
-      "app.faraday.ai",
+      "row.pro",
       "api.faraday.ai",
       "vault2.faraday.ai",
-      "row.pro"
+      "app.faraday.ai"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -5921,12 +5921,12 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/playstation",
     "targets": [
+      "my.account.sony.com",
       "web.np.playstation.com",
-      "www.playstation.com",
       "checkout.playstation.com",
-      "my.playstation.com",
-      "*.sonyentertainmentnetwork.com",
-      "*.playstation.net",
+      "wallets.api.playstation.com",
+      "direct.playstation.com",
+      "api.direct.playstation.com",
       "*.api.playstation.com",
       "compete.playstation.com"
     ],
@@ -5945,14 +5945,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/truecaller",
     "targets": [
-      "www.truecaller.com",
-      "*-noneu.truecaller.com",
-      "*-eu.truecaller.com",
       "web.truecaller.com",
       "com.truecaller",
       "*-asia-south1.truecaller.com",
+      "business.truecaller.com",
       "business-resources.truecaller.com",
-      "business.truecaller.com"
+      "*-noneu.truecaller.com",
+      "*-eu.truecaller.com",
+      "www.truecaller.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -5969,14 +5969,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/insulet_corporation",
     "targets": [
+      "www.insulet.com",
       "www.omnipod.com",
       "eu-prod.omnipodcloud.com",
-      "aprms.insulet.com",
-      "eu-prod.omnipodapps.com",
-      "www.poddercentral.com",
       "prod.omnipodapps.com",
-      "prod-device.omnipodcloud.com",
-      "www.insulet.com"
+      "insuletid.com",
+      "prod-internal.omnipodapps.com",
+      "eu-prod-device.omnipodcloud.com",
+      "eu-prod-internal.omnipodapps.com"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -6011,8 +6011,8 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/pubg",
     "targets": [
-      "*.pubg.com",
-      "*.pubgesports.com"
+      "*.pubgesports.com",
+      "*.pubg.com"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -6029,14 +6029,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/picsart",
     "targets": [
-      "stage.optifyr.com",
-      "ai.picsart.com",
-      "video-api.picsart.io",
-      "demo.sdk.picsart.io",
+      "t.picsart.com",
+      "api.picsart.io",
+      "cdn-basic-content-api.picsart.io",
+      "revenue-tracking.picsart.io",
       "api.picsart.com",
       "content-discovery.picsart.io",
       "console.picsart.io",
-      "picsart.io"
+      "www.picsart.com"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -6053,12 +6053,12 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/evernote",
     "targets": [
-      "api.stage.evernote.com",
-      "accounts.evernote.com",
-      "com.evernote",
       "www.evernote.com",
+      "accounts.evernote.com",
       "api.evernote.com",
-      "accounts.stage.evernote.com"
+      "com.evernote",
+      "accounts.stage.evernote.com",
+      "api.stage.evernote.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -6127,10 +6127,10 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/lemlist",
     "targets": [
-      "app.lemcal.com",
+      "app.tweethunter.io",
       "app.lemlist.com",
       "app.lemwarm.com",
-      "app.tweethunter.io",
+      "app.lemcal.com",
       "app.taplio.com"
     ],
     "bounty_eligible": false,
@@ -6148,10 +6148,10 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/exodus",
     "targets": [
-      "*.a.exodus.io",
+      "*.exodus.com",
       "exodus-movement.exodus",
-      "*.exodus.io",
-      "*.exodus.com"
+      "*.a.exodus.io",
+      "*.exodus.io"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -6168,14 +6168,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/keybank",
     "targets": [
-      "*.xuppay.com",
-      "*.keybank.com",
-      "*.key2businesscard.com",
-      "com.laurelRoad.mobile",
-      "*.keyapsolutions.com",
       "*.keyequipmentfinance.com",
+      "*.xuppay.com",
+      "com.laurelroad.android",
+      "*.xuppay-statement-analyzer.com",
+      "*.key.com",
+      "com.key.android",
       "*.xupservicing.com",
-      "com.key.android"
+      "*.keyapsolutions.com"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -6192,9 +6192,9 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/gmelius",
     "targets": [
-      "gmelius.io",
       "app.gmelius.com",
-      "api.gmelius.com"
+      "api.gmelius.com",
+      "gmelius.io"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -6229,10 +6229,10 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/streak_com",
     "targets": [
-      "mailfoogae.appspot.com",
-      "streaklinks.com",
+      "api.streak.com",
       "www.streak.com",
-      "api.streak.com"
+      "streaklinks.com",
+      "mailfoogae.appspot.com"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -6269,14 +6269,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/mtn_group",
     "targets": [
-      "mtnonlineoffer.com",
-      "mtnfrontrow.com",
-      "mtn.com.gh",
-      "mtnusatopup.com",
-      "mtn.mobi",
-      "mtnepresence.com",
-      "mtntelecom.com",
-      "developer.ayoba.me"
+      "mtnonlineservices.net",
+      "mymtn-promo.com",
+      "mtnzakhele.net",
+      "mtnmobilemoney.net",
+      "mtnadvertising.com",
+      "mtnayoba.com",
+      "yelloafrica.com",
+      "mtnrewards.com"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -6294,12 +6294,12 @@
     "url": "https://hackerone.com/kubernetes",
     "targets": [
       "github.com/kubernetes-retired",
+      "k8s.gcr.io",
       "prow.k8s.io",
       "kubernetes-csi.github.io",
-      "kubernetes.io",
+      "k8s.io",
       "github.com/kubernetes-csi",
-      "k8s.gcr.io",
-      "k8s.io"
+      "kubernetes.io"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -6316,8 +6316,8 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/coinspot",
     "targets": [
-      "com.coinspot.app",
-      "www.coinspot.com.au"
+      "www.coinspot.com.au",
+      "com.coinspot.app"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -6334,14 +6334,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/gocardless_bbp",
     "targets": [
-      "connect-sandbox.gocardless.com",
-      "*.gocardless-cicd.io",
+      "developer.gocardless.com",
+      "*.gocardless.dev",
       "oauth-sandbox.gocardless.com",
       "api-sandbox.gocardless.com",
-      "ob.gocardless.com",
-      "*.gocardless-lab.io",
-      "developer.gocardless.com",
-      "*.gocardless.io"
+      "auth0.gocardless.com",
+      "connect-sandbox.gocardless.com",
+      "bankaccountdata.gocardless.com",
+      "payer-details-sandbox.gocardless.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -6358,14 +6358,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/equifax",
     "targets": [
-      "claimshistory.com.au",
-      "*.mapcity.com",
-      "mintaustralia.com.au",
-      "buildrating.com",
-      "creditreference.com.au",
-      "parkingmadeeasy.net.au",
-      "welcomeclient.com",
-      "chaodeudas.cl"
+      "ntd.net.au",
+      "mail.ext-equifax.cl",
+      "vedaadvantage.com.au",
+      "myclinicalprofile.com.au",
+      "eperformance.com.au",
+      "*.datacredito.com.do",
+      "*equifax.co.cr",
+      "securesentinel.com.au"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -6382,14 +6382,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/forescout_technologies",
     "targets": [
-      "datapod-1-100-druid-ingest.testing.forescoutcloud.net",
-      "aebddc74953f248bc8455665b0f7d47b-78af959a11e5d0c1.elb.us-east-1.amazonaws.com",
-      "de.forescout.cloud",
-      "community.forescout.com",
-      "updates.forescout.com",
-      "www.forescout.com",
-      "212.143.112.81/29",
-      "datapod-1-100-druid-query.development.forescoutcloud.net"
+      "datapod-1-query.production.forescoutcloud.net",
+      "97.105.243.96/28",
+      "streaming.iris.acceptance.forescoutcloud.net",
+      "194.90.89.165/32",
+      "obs-sensors.iris.acceptance.forescoutcloud.net",
+      "194.90.25.80/29",
+      "mgmt-sensors.iris.acceptance.forescoutcloud.net",
+      "de.forescout.cloud"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -6423,14 +6423,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/lark_technologies",
     "targets": [
-      "WindowsOSExecutable:Downloadherehttps://www.larksuite.com/download",
-      "passport.larksuite.com",
-      "caldav.larksuite.com",
-      "app.larksuite.com",
       "MacOSExecutable:Downloadherehttps://www.larksuite.com/download",
       "com.larksuite.suite",
-      "file.larksuite.com",
-      "lark-frontier.byteoversea.com"
+      "status.larksuite.com",
+      "open.larksuite.com",
+      "lark-frontier.byteoversea.com",
+      "passport.larksuite.com",
+      "larksuite.com",
+      "hackers_chosendomain.larksuite.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -6447,9 +6447,9 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/top_echelon_software",
     "targets": [
+      "bb3api.topechelon.com",
       "www.topechelon.com",
-      "bigbiller.topechelon.com",
-      "bb3api.topechelon.com"
+      "bigbiller.topechelon.com"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -6501,11 +6501,11 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/dynatrace",
     "targets": [
-      "sso-sprint.dynatracelabs.com",
+      "myaccount-hardening.dynatracelabs.com",
+      "account-sprint.dynatracelabs.com",
       "*.sprint.apps.dynatracelabs.com",
       "*.sprint.dynatracelabs.com",
-      "account-sprint.dynatracelabs.com",
-      "myaccount-hardening.dynatracelabs.com"
+      "sso-sprint.dynatracelabs.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -6523,12 +6523,12 @@
     "url": "https://hackerone.com/ridewithvia",
     "targets": [
       "eu.remix.com",
-      "ridewithvia.neoridelittlerock",
-      "global-api.citymapper.com",
-      "com.citymapper.app.release",
       "platform.remix.com",
+      "com.citymapper.app.release",
+      "ridewithvia.neoridelittlerock",
       "ridewithvia.par.piercetransit",
-      "via.rider"
+      "via.rider",
+      "global-api.citymapper.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -6545,14 +6545,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/xiaomi",
     "targets": [
-      "*.xiaomi.org",
-      "*.xiaomimobile.com",
-      "*.zmifi.com",
+      "*.xiaomiprint.com",
       "*.mijiayoupin.com",
-      "*.mifile.cn",
+      "*.airstar-finance.com",
       "com.xiaomi.market",
-      "*.xiaomiwear.com",
-      "*.duokan.com"
+      "*.wali.com",
+      "*.airstarfinance.net",
+      "*.xiangkankeji.com",
+      "com.xiaomi.micloud.sdk"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -6570,13 +6570,13 @@
     "url": "https://hackerone.com/starling_bank",
     "targets": [
       "com.starlingbank.android",
-      "oauth.starlingbank.com",
-      "uk.co.starlingbank.Starling",
+      "token-api.starlingbank.com",
+      "api-openbanking.starlingbank.com",
+      "openbanking.starlingbank.com",
       "payment-api.starlingbank.com",
-      "www.starlingbank.com",
       "developer.starlingbank.com",
-      "api.starlingbank.com",
-      "api-openbanking.starlingbank.com"
+      "app.starlingbank.com",
+      "uk.co.starlingbank.Starling"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -6593,8 +6593,8 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/central-security-project",
     "targets": [
-      "JavaComponentinsearch.maven.org",
-      "JavacomponentNOTinsearch.maven.org"
+      "JavacomponentNOTinsearch.maven.org",
+      "JavaComponentinsearch.maven.org"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -6611,14 +6611,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/capital-one",
     "targets": [
-      "com.capitalone.credittracker",
-      "*.capitalone.co.uk",
-      "*.luma.co.uk",
-      "*.theunioncard.com",
       "*.bluetarp.com",
+      "*.capitaloneshopping.com",
+      "com.capitalone.intellix.mobile.prod",
+      "com.ukcapitalone.creditWise",
+      "*.capitalone.co.uk",
       "ca.capitalone.enterprisemobilebanking",
-      "com.capitalone.atwork",
-      "*.teamstercardnow.com"
+      "*.wikibuy.com",
+      "*.capitalone.com"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -6635,14 +6635,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/reddit",
     "targets": [
-      "*.redditmedia.com",
-      "*.snooguts.net",
-      "developers.reddit.com",
+      "redditforbusiness.com",
+      "*.reddit.com",
+      "*.redditblog.com",
+      "new.reddit.com",
       "sh.reddit.com",
       "ads.reddit.com",
-      "strapi.reddit.com",
-      "gateway.reddit.com",
-      "*.spiketrap.io"
+      "amp.reddit.com",
+      "meta-api.reddit.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -6679,13 +6679,13 @@
     "url": "https://hackerone.com/early_warning",
     "targets": [
       "support*.earlywarning.com",
-      "zelleservice.my.site.com",
-      "*.zelle.com",
-      "*.earlywarning.com",
-      "www.certos.com",
       "zelleservice.my.salesforce.com",
+      "zelleservice.my.site.com",
       "*.zellepay.com",
-      "ews-fusion.my.site.com"
+      "ews-fusion.my.site.com",
+      "developer*.earlywarning.com",
+      "www.certos.com",
+      "*.zelle.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -6703,13 +6703,13 @@
     "url": "https://hackerone.com/instacart",
     "targets": [
       "com.instacart.client",
-      "*.instacart.tools",
       "api.instacart.com",
-      "*.instacart.com",
-      "admin.instacart.com",
+      "template.uat.foodstorm.com",
       "shoppers.instacart.com",
       "www.instacart.com",
-      "template.uat.foodstorm.com"
+      "*.instacart.tools",
+      "admin.instacart.com",
+      "*.instacart.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -6743,14 +6743,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/ford",
     "targets": [
-      "*.quicklane.com",
-      "com.lincoln.lincolnway",
-      "*.omnicraftautoparts.com",
+      "com.ford.remoteaccess",
+      "com.lincoln.lincolnalexa",
       "com.ford.fordpass",
+      "com.ford.therightway",
+      "*.lincoln.com",
       "com.ford.fordplay",
-      "com.ford.fordalexa",
-      "*.motorcraft.com",
-      "com.lincoln.lincolnalexa"
+      "com.lincoln.lincolnway",
+      "ford.ca"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -6767,14 +6767,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/expediagroup_bbp",
     "targets": [
-      "www.expedia.com",
-      "com.hotwire.hotels",
-      "www.abritel.fr",
-      "com.travelocity.android",
-      "www.hotwirepartnercentral.com",
-      "*.travelocity.com",
-      "www.lastminute.com.au",
-      "www.ebookers.fi"
+      "com.cheaptickets",
+      "*.expediapartnercentral.com",
+      "*.wotif.com",
+      "*.lastminute.com.au",
+      "www.expediagroup.com",
+      "www.cheaptickets.com",
+      "com.wotif.android",
+      "www.expediataap.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -6810,14 +6810,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/netlify",
     "targets": [
-      "internal-docs.netlify.com",
-      "netlify-cdp-loader.netlify.app",
-      "*.onegraph.com",
-      "supportal.netlify.app",
-      "internal.netlify.com",
-      "list-v2--netlify-plugins.netlify.app",
       "*.services.netlify.com",
-      "api.netlify.com"
+      "app.netlify.com",
+      "supportal.netlify.app",
+      "*.onegraph.com",
+      "api.netlify.com",
+      "*.services-prod.nsvcs.net",
+      "*.infra-prod.nsvcs.net",
+      "netlify-cdp-loader.netlify.app"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -6834,14 +6834,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/fanduel",
     "targets": [
-      "*.tvg.com",
-      "com.fanduel.android.self",
-      "*.prd.fndlsb.net",
       "com.fanduel.casino",
-      "com.fanduel.flywheelnativecontainer.picks",
-      "login-4ngbets.us.betfair.com",
       "com.fanduel.racing",
-      "login-4njbets.us.betfair.com"
+      "login-4njbets.us.betfair.com",
+      "*.tvg.com",
+      "com.fanduel.sportsbook",
+      "4njbets.com",
+      "www.4njbets.com",
+      "login-4ngbets.us.betfair.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -6858,13 +6858,13 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/creditkarma",
     "targets": [
-      "com.creditkarma.mobile.international",
-      "blog.creditkarma.com",
       "api.creditkarma.com",
+      "com.creditkarma.mobile.international",
       "support.creditkarma.ca",
-      "www.creditkarma.ca",
+      "com.creditkarma.mobile",
+      "blog.creditkarma.com",
       "accounts.creditkarma.com",
-      "com.creditkarma.mobile"
+      "www.creditkarma.ca"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -6881,14 +6881,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/mercadolibre",
     "targets": [
-      "*.mercadolibre.com.mx",
-      "mercadoplay.pe",
-      "*.mlstatic.com",
-      "*.mercadopago.com.br",
-      "*.mercadopago.cl",
-      "api.mercadopago.com",
-      "com.mercadolibre",
-      "*.mercadopago.com.pe"
+      "com.mercadoenvios.crowdsourcing",
+      "www.mercadolibre.com.do",
+      "www.mercadolibre.com.py",
+      "www.mercadolibre.com.gt",
+      "com.mercadopago.wallet",
+      "biolibre.mx",
+      "www.mercadopago.com.ec",
+      "www.mercadolibre.com.sv"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -6925,14 +6925,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/remitly",
     "targets": [
-      "blog.remitly.com",
-      "app3.rewire.to",
-      "origenapp.com",
-      "remitly.io",
-      "remitly.cash",
-      "funding-webhooks.remitly.io",
-      "access-sandbox.remitly.com",
-      "remitly.co"
+      "origendebit.com",
+      "remitresearch.com",
+      "remitir.com",
+      "remitlytest.com",
+      "com.remitly.androidapp",
+      "remitly-vendor.com",
+      "ablink.info.remitly.com",
+      "beamitmobile.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -6949,13 +6949,13 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/expediagroup",
     "targets": [
-      "*.fewo-direkt.de",
+      "*.cruiseshipcenters.com",
+      "*.homeaway.com",
+      "*.expediapartnercentral.com",
       "*.abritel.fr",
-      "*.expedia.com",
-      "*.travelocity.com",
-      "*.stayz.com.au",
-      "*.expediagroup.com",
-      "www.ebookers.fi",
+      "*.wotif.com",
+      "*.lastminute.com.au",
+      "*.ebookers.com",
       "*.hotwirepartnercentral.com"
     ],
     "bounty_eligible": false,
@@ -6973,14 +6973,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/nutanix",
     "targets": [
-      "ticket.nutanix.com",
-      "www.nutanix.dev",
       "iot.nutanix.com",
-      "idp.nutanix.com",
-      "beam.nutanix.com",
-      "nutanix.com",
+      "ticket.nutanix.com",
+      "gp.nutanix.com",
+      "cpq.nutanix.com",
+      "jira.nutanix.com",
       "*.nutanix.com",
-      "bootcamp.nutanix.com"
+      "support.nutanix.com",
+      "beam.nutanix.com"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -6997,12 +6997,12 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/s-pankki",
     "targets": [
+      "www.s-pankki.fi",
+      "online.s-pankki.fi",
+      "fi.spankki",
       "mobile.s-pankki.fi",
       "digili.s-cloud.fi",
-      "www.s-pankki.fi",
-      "extranet.s-pankki.fi",
-      "fi.spankki",
-      "online.s-pankki.fi"
+      "extranet.s-pankki.fi"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -7019,10 +7019,10 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/flickr",
     "targets": [
-      "modefestival.com",
+      "com.yahoo.mobile.client.android.flickr",
       "*.flickr.com",
-      "www.whatismode.com",
-      "com.yahoo.mobile.client.android.flickr"
+      "modefestival.com",
+      "www.whatismode.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -7039,8 +7039,8 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/matomo",
     "targets": [
-      "org.piwik.mobile2",
-      "matomo.cloud"
+      "matomo.cloud",
+      "org.piwik.mobile2"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -7074,14 +7074,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/logitech",
     "targets": [
-      "www.logitech.com.cn",
-      "*.melonapp.com",
-      "logitechg.com.cn",
       "logilife.logitech.com",
-      "logitechgchallenge.com",
-      "www.jaybirdsport.com",
-      "*.lukwerks.com",
-      "*.ultimateearsuniversity.com"
+      "www.astrogaming.com",
+      "*.oslo.io",
+      "community.logitech.com",
+      "*.mevo.com",
+      "support.logi.com",
+      "*.harmonyremote.com",
+      "*.streamlabs.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -7098,14 +7098,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/marriott",
     "targets": [
-      "www.giving.marriott.com",
-      "contentportalauth.marriott.com",
-      "homes-and-villas.marriott.com",
-      "smetrics.marriott.com",
-      "apcgateway.marriott.com",
-      "joinmarriottbonvoy.com",
-      "all-inclusive.marriott.com",
-      "cpp.marriott.com"
+      "esupplier.marriott.com",
+      "*uat.marriott.com",
+      "gifts.marriott.com",
+      "moments.marriott.com",
+      "owa.marriott.com",
+      "*.apigwc.marriott.com",
+      "*.apigatewayc.marriott.com",
+      "passwordchallenge.marriott.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -7122,14 +7122,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/hyatt",
     "targets": [
-      "scapegoat.hyatt.com",
-      "www.hyatt.com",
-      "213.139.133.32/28",
-      "res.vacations.universalstudioshollywood.com",
+      "jira.hyattdev.com",
+      "blueskytours.globalbookingsolutions.com",
+      "res.vacations.sesameplace.com",
+      "world.hyatt.com",
+      "upsell.hyatt.com",
       "www.triseptsolutions.com",
-      "login.www.vaxvacationaccess.com",
-      "res.funjet.com",
-      "res.blueskytours.globalbookingsolutions.com"
+      "reservations.wynnvacations.com",
+      "www.universalorlandovacations.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -7163,13 +7163,13 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/acronis",
     "targets": [
-      "com.acronis.acronistrueimage",
-      "account.acronis.com",
-      "beta-cloud.acronis.com",
-      "*.acronis.work",
-      "*.acronis.com",
       "*.5nine.com",
+      "*.devicelock.com",
+      "beta-cloud.acronis.com",
       "*-api-*.acronis.com",
+      "*.acronis.work",
+      "account.acronis.com",
+      "com.acronis.acronistrueimage",
       "com.acronis.abc"
     ],
     "bounty_eligible": true,
@@ -7205,14 +7205,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/paypal",
     "targets": [
-      "www.swiftfinancial.com",
+      "com.paypal.merchant.client",
+      "*.braintreepayments.com",
+      "www.loanbuilder.com",
       "com.paypal.merchant",
+      "*.paydiant.com",
+      "www.paypal-*.com",
       "sandbox.braintreegateway.com",
-      "decision.swiftfinancial.com",
-      "*.paylution.com",
-      "*.braintree.tools",
-      "prequal.swiftfinancial.com",
-      "paypal.me"
+      "*.hyperwallet.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -7246,14 +7246,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/chaturbate",
     "targets": [
-      "*.highwebmedia.com",
-      "*.cb.dev",
-      "*.mmcdn.com",
-      "billingsupport.chaturbate.com",
-      "chaturbate.com",
-      "m.chaturbate.com",
+      "secure.chaturbate.com",
+      "*.securegatewayaccess.com",
       "*.mmwebc.dev",
-      "*.securegatewayaccess.com"
+      "*.mmcdn.com",
+      "chaturbate.com",
+      "billingsupport.chaturbate.com",
+      "*.highwebmedia.com",
+      "*.cb.dev"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -7270,14 +7270,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/pixiv",
     "targets": [
-      "premium.pixiv.net",
-      "*.fanbox.cc",
-      "pastela.app",
-      "hub.vroid.com",
-      "comic-indies.pixiv.net",
+      "booth.pm",
       "dic.pixiv.net",
-      "neoket.net",
-      "booth.pm"
+      "comic-indies.pixiv.net",
+      "hub.vroid.com",
+      "coban.pixiv.net",
+      "novel.pixiv.net",
+      "payment.pixiv.net",
+      "pastela.app"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -7383,14 +7383,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/crypto",
     "targets": [
-      "og.com",
-      "developer-api.crypto.com",
-      "com.defi.wallet",
-      "developer-platform-api.crypto.com",
+      "nadex.com",
       "developer.crypto.com",
-      "js.crypto.com",
-      "*.crypto.com",
-      "travel.crypto.com"
+      "app.mona.co",
+      "*.mona.co",
+      "co.mona.android",
+      "og.com",
+      "Crypto.comExchangeAPIsthatrequireanaccount",
+      "tax.crypto.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -7443,10 +7443,10 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/pingidentity",
     "targets": [
-      "api.ort-one-pingone.com",
       "console.ort-one-pingone.com",
-      "auth.ort-one-pingone.com",
-      "apps.ort-one-pingone.com"
+      "api.ort-one-pingone.com",
+      "apps.ort-one-pingone.com",
+      "auth.ort-one-pingone.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -7463,14 +7463,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/flutteruki",
     "targets": [
-      "*.sbgcore.com",
-      "*.betfair.com",
       "*.betfair.se",
-      "itv7.itv.com",
-      "*.skybet.com",
-      "*.sportinglife.com",
       "*.ppb.com",
-      "*.paddypower.com"
+      "*.betfair.ro",
+      "*.sbgservices.com",
+      "*.dibz.co.uk",
+      "*.skybet.co.uk",
+      "*.skycasino.com",
+      "*.skypoker.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -7487,14 +7487,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/toyota",
     "targets": [
-      "www.lexus.jp",
-      "www.lexus.com.br",
-      "www.toyota.co.th",
+      "www.lexus.com.ar",
+      "www.toyotaconnected.com",
+      "www.toyota.com",
+      "www.login.gac.toyota.com",
+      "www.toyotafinancialpr.com",
       "www.utility.gac.toyota.com",
-      "www.dashboard.gatekeepers.co.in",
-      "www.toyotamobility.com",
-      "www.global.toyota",
-      "www.toyota.com.br"
+      "www.toyota.com.ar",
+      "www.tddsprogram.com"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -7511,14 +7511,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/crowdstrike",
     "targets": [
-      "sgnl.team",
       "apps.apple.com/us/app/crowdstrike-falcon/id1458815656",
-      "*.crowdstrike.com",
-      "play.google.com/store/apps/details?id=com.crowdstrike.falconmobile",
-      "onum.com",
-      "*.adaptive-shield.com",
-      "*.flowsecurity.app",
-      "sgnl.ai"
+      "hybrid-analysis.com",
+      "*.preempt.com",
+      "sgnl.team",
+      "onum-labs.com",
+      "sgnl.cloud",
+      "sgnlapis.cloud",
+      "*.securecircle.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -7535,8 +7535,8 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/databricks",
     "targets": [
-      "databricks.com",
-      "accounts.cloud.databricks.com"
+      "accounts.cloud.databricks.com",
+      "databricks.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -7554,8 +7554,8 @@
     "url": "https://hackerone.com/coalition",
     "targets": [
       "coalitioninc.com",
-      "api.thecoalition.com",
-      "platform.thecoalition.com"
+      "platform.thecoalition.com",
+      "api.thecoalition.com"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -7573,12 +7573,12 @@
     "url": "https://hackerone.com/elastic",
     "targets": [
       "*.elastic.co",
-      "*.elastic.dev",
-      "*.elasticsearch.fr",
-      "*.prelert.com",
-      "*.elasticcloud.wtf",
+      "*.elasticnet.co",
+      "cloud.elastic.co",
+      "*.elasticsearch.org",
+      "*.logstash.wtf",
+      "*.elasticsearch.wtf",
       "*.logstash.net",
-      "*.eops.nl",
       "*.theelasticast.com"
     ],
     "bounty_eligible": true,
@@ -7596,14 +7596,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/goldmansachs",
     "targets": [
-      "com.gs.mobile.trader",
-      "com.gs.pwmdigital.external",
-      "*.folioidentity.com",
-      "*.gs-mosaic.qa.gs.com",
-      "*.ayco.com",
-      "goldmansachsindices.com",
-      "*.gsam.com",
-      "*.gsselect.com"
+      "*.foliofirst.com",
+      "*.goldmanpfm.com",
+      "*.advisorsolutions.gs.com",
+      "apigw.foliofn.com",
+      "*.gspublishing.com",
+      "api.foliofn.com",
+      "com.gs.gstrader.external",
+      "com.marcus.android"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -7620,14 +7620,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/yoti",
     "targets": [
-      "api.yoti.com",
-      "code.yoti.com",
-      "ccloud.yoti.com",
-      "hub.yoti.com",
+      "www.yotisign.com",
       "core.yoti.com",
       "identity.yoti.com",
-      "www.yotisign.com",
-      "com.yoti.mobile.android.live"
+      "hub.yoti.com",
+      "api.yoti.com",
+      "ccloud.yoti.com",
+      "com.yoti.mobile.android.live",
+      "code.yoti.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -7644,14 +7644,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/valve",
     "targets": [
-      "help.steampowered.com",
-      "support.steampowered.com",
-      "partner.steampowered.com",
-      "steamcommunity.com",
-      "www.counter-strike.net",
-      "com.valvesoftware.Steam",
+      "api.steampowered.com",
+      "*.steamstatic.com",
       "developer.valvesoftware.com",
-      "partner.steamgames.com"
+      "partner.steamgames.com",
+      "support.steampowered.com",
+      "steamcommunity.com",
+      "help.steampowered.com",
+      "www.valvesoftware.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -7668,14 +7668,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/epicgames",
     "targets": [
-      "*.psynet.gg",
-      "*.harmonixmusic.com",
-      "*.oncatapult.com",
-      "content-service-live-testing.bfda.live.use1a.on.epicgames.com",
-      "harmonixmusic.com",
-      "playwonderbox.com.br",
-      "twinmotion.unrealengine.com",
-      "FortniteLauncher-Win64-Shipping_BE.exe"
+      "*.3lateral.com",
+      "*.unrealtournament.com",
+      "niantic.kidswebservices.com",
+      "*.easy.ac",
+      "FortniteLauncher-Win64-Shipping.exe",
+      "dev.epicgames.com/*",
+      "*.quixel.com",
+      "forum.sketchfab.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -7709,14 +7709,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/malwarebytes",
     "targets": [
-      "oneview.threatdown.com",
+      "*.mwbsys.com",
       "*.mbamupdates.com",
       "*.cloud.malwarebytes.com",
+      "www.malwarebytes.com",
+      "org.malwarebytes.antimalware",
       "*.mwb-threatintel.com",
-      "*.cyrus-security.com",
-      "support.malwarebytes.com",
-      "*.threatdown.com",
-      "www.malwarebytes.com"
+      "cloud.malwarebytes.com",
+      "forums.malwarebytes.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -7733,14 +7733,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/superhuman",
     "targets": [
-      "gateway.superhuman.com",
       "coda.io",
-      "mail.superhuman.com",
-      "app.grammarly.com",
-      "codahosted.io",
+      "coda.grammarly.com",
+      "*.grammarlyaws.com",
+      "io.coda",
       "*.superhuman.com",
-      "codacontent.io",
-      "io.coda"
+      "*.coda.io",
+      "id.superhuman.com",
+      "app.grammarly.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -7791,14 +7791,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/bitwarden",
     "targets": [
-      "help.bitwarden.com",
-      "com.x8bit.bitwarden",
-      "bitwarden.com",
+      "api.bitwarden.com",
+      "identity.bitwarden.com",
       "com.bitwarden.authenticator",
+      "vault.bitwarden.com",
+      "bitwarden.com",
       "com.8bit.bitwarden",
-      "docs.passwordless.dev",
-      "v4.passwordless.dev",
-      "api.bitwarden.com"
+      "help.bitwarden.com",
+      "docs.passwordless.dev"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -7815,14 +7815,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/oportun_vdp",
     "targets": [
-      "build.jenkins.progressfinservices.com",
-      "offers.oportun.com",
-      "api.digit.co",
-      "apply.oportun.com",
-      "docusign-qa13.progressfinservices.com",
+      "mysql-analytics-db-1-a.oportun.com",
+      "rewardredeem.oportun.com",
+      "online-origination.1.app.stage.pfops.com",
       "office365.oportun.com",
-      "loans.oportun.com",
-      "online-origination.1.app.stage.pfops.com"
+      "redshift-prod-cluster.oportun.com",
+      "collections.oportun.com",
+      "apollo.oportun.com",
+      "mariadb-data-db-1-a.oportun.com"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -7856,14 +7856,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/bumble",
     "targets": [
-      "presence.geneva-staging.chat",
-      "meu1.badoo.com",
-      "www.geneva-staging.com",
-      "com.bumblebff.app",
-      "bma.badoo.com",
-      "go.geneva-staging.com",
-      "deeplinks.geneva-staging.com",
-      "chatdate.app"
+      "ccardseu1.badoo.com",
+      "com.badoo.mobile",
+      "www.bumble.com",
+      "geneva-staging.chat",
+      "sockets.geneva-staging.com",
+      "ccardsus1.badoo.com",
+      "badoo.com",
+      "payments.geneva-staging.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -7880,14 +7880,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/spotify",
     "targets": [
-      "*.atspotify.com",
-      "backstage.io",
-      "*.avecspotify.com",
-      "com.spotify.client",
-      "*.spotify.com",
+      "com.spotify.s4a",
+      "*.fromspotify.com",
       "com.spotify.music",
+      "com.spotify.client",
+      "*.spotify.net",
+      "*.forspotify.com",
       "*.tospotify.com",
-      "*.fromspotify.com"
+      "fm.anchor.android"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -7904,10 +7904,10 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/roblox",
     "targets": [
-      "*.roblox.com",
-      "blox.link",
       "*.rbx.com",
-      "*.ra.roblox.com"
+      "*.ra.roblox.com",
+      "*.roblox.com",
+      "blox.link"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -7924,14 +7924,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/dyson",
     "targets": [
-      "www.dyson.co.th",
-      "www.dyson.com.ee",
-      "www.dyson.co.kr",
-      "www.dyson.no",
-      "www.dyson.com.ua",
+      "www.dyson.com.tr",
+      "www.dysoncanada.ca",
+      "www.dyson.es",
+      "www.dyson.hu",
       "www.dyson.ie",
-      "shop.dyson.co.za",
-      "api.fi.dyson.com"
+      "www.dyson.se",
+      "www.dyson.my",
+      "api.dysoncanada.ca"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -7983,11 +7983,11 @@
     "url": "https://hackerone.com/lyst",
     "targets": [
       "com.lyst.lystapp",
-      "cdna.lystit.com",
-      "*.lyst.com",
       "*.lyst.co",
+      "*.lystit.com",
       "mobileapi.lystit.com",
-      "*.lystit.com"
+      "cdna.lystit.com",
+      "*.lyst.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -8004,14 +8004,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/kiwicom",
     "targets": [
-      "*.skypicker.com",
-      "www.kiwi.com",
+      "jobs.kiwi.com",
       "com.skypicker.main",
-      "tequila.kiwi.com",
-      "*.kiwi.com",
-      "auth.skypicker.com",
+      "*.skypicker.com",
       "com.skypicker.Skypicker",
-      "jobs.kiwi.com"
+      "www.kiwi.com",
+      "auth.skypicker.com",
+      "tequila.kiwi.com",
+      "*.kiwi.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -8045,9 +8045,9 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/enjin",
     "targets": [
-      "com.enjin.mobile.wallet",
+      "*.enjinusercontent.com",
       "nft.io",
-      "*.enjinusercontent.com"
+      "com.enjin.mobile.wallet"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -8098,13 +8098,13 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/plaid",
     "targets": [
-      "dashboard.plaid.com",
-      "plaid.com",
-      "secure.plaid.com",
-      "demo.plaid.com",
       "my.plaid.com",
       "cdn.plaid.com",
-      "production.plaid.com"
+      "plaid.com",
+      "demo.plaid.com",
+      "dashboard.plaid.com",
+      "production.plaid.com",
+      "secure.plaid.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -8121,14 +8121,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/semrush",
     "targets": [
-      "workflows.semrush.com",
-      "*.seoab.io",
-      "*.berush.com",
-      "*.sellzone.com",
+      "*.seoquake.com",
+      "*.semrush.com",
       "investors.semrush.com",
+      "*.berush.com",
       "*.myinsights.io",
-      "*.semrush.net",
-      "*.prowly.com"
+      "*.scatec.io",
+      "*.sellzone.com",
+      "*.semrush.net"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -8145,9 +8145,9 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/quora",
     "targets": [
-      "*.quora.com",
+      "com.quora.app.mobile",
       "com.quora.android",
-      "com.quora.app.mobile"
+      "*.quora.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -8164,12 +8164,12 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/portswigger",
     "targets": [
-      "ai.portswigger.net",
+      "collections.portswigger.net",
       "portswigger.net",
-      "links.portswigger.net",
-      "share.portswigger.net",
+      "ai.portswigger.net",
       "id.portswigger.net",
-      "collections.portswigger.net"
+      "links.portswigger.net",
+      "share.portswigger.net"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -8204,14 +8204,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/files",
     "targets": [
-      "app.files.com",
-      "Files.comDesktopv4App(previouslyknownasDesktopApp)",
-      "FIles.comRESTAPI",
-      "Files.comCommandLineInterface(CLI)App",
-      "your-assigned-subdomain.files.com",
-      "Files.comOn-PremiseAgent",
       "Files.comSDK's",
-      "Files.comMobileApp"
+      "www.files.com",
+      "Files.comCommandLineInterface(CLI)App",
+      "Files.comDesktopv4App(previouslyknownasDesktopApp)",
+      "Files.comDesktopv6App",
+      "FIles.comRESTAPI",
+      "Files.comOn-PremiseAgent",
+      "your-assigned-subdomain.files.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -8245,12 +8245,12 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/exness",
     "targets": [
-      "com.exness.android.pa",
-      "pay.ibex.exchange",
       "api.excalls.mobi",
-      "exness.com",
       "exnessaffiliates.com",
       "my.exness.com",
+      "exness.com",
+      "com.exness.android.pa",
+      "pay.ibex.exchange",
       "pwapi.ex2b.com"
     ],
     "bounty_eligible": true,
@@ -8268,13 +8268,13 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/wordpress",
     "targets": [
-      "codex.wordpress.org",
       "*.wordpress.org",
+      "lists.wordpress.org",
+      "*.wordpress.net",
       "doaction.org",
-      "munin-*.wordpress.org",
-      "wordpressfoundation.org",
-      "api.wordpress.org",
-      "*.wordcamp.org",
+      "*.buddypress.org",
+      "irclogs.wordpress.org",
+      "planet.wordpress.org",
       "*.trac.wordpress.org"
     ],
     "bounty_eligible": true,
@@ -8309,14 +8309,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/nextcloud",
     "targets": [
-      "com.nextcloud.client",
-      "docs.nextcloud.com",
-      "nextcloud.com",
-      "updates.nextcloud.com",
-      "auth.nextcloud.com",
+      "crm.nextcloud.com",
+      "static.apps.nextcloud.com",
+      "usercontent.apps.nextcloud.com",
       "pushfeed.nextcloud.com",
-      "scan.nextcloud.com",
-      "usercontent.apps.nextcloud.com"
+      "push-notifications.nextcloud.com",
+      "help.nextcloud.com",
+      "lookup.nextcloud.com",
+      "com.nextcloud.Talk"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -8350,14 +8350,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/starbucks",
     "targets": [
+      "app.starbucks.com",
+      "com.starbucks.mystarbucks",
       "openapi.starbucks.com",
       "www.starbucks.com",
       "com.starbucks.mobilecard",
-      "www.starbucks.ca",
-      "app.starbucks.com",
-      "www.starbucksreserve.com",
       "secureui.starbucks.com",
-      "com.starbucks.mystarbucks"
+      "www.starbucks.ca",
+      "www.starbucksreserve.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -8391,14 +8391,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/rockstargames",
     "targets": [
+      "www.rockstargames.com",
+      "rockstarnorth.com",
+      "circolocorecords.com/",
+      "socialclub.rockstargames.com",
       "store.rockstargames.com",
       "prod.ros.rockstargames.com",
-      "rockstarnorth.com",
-      "*.rockstargames.com",
-      "socialclub.rockstargames.com",
       "support.rockstargames.com",
-      "www.rockstargames.com",
-      "circolocorecords.com/"
+      "*.rockstargames.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -8415,14 +8415,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/github",
     "targets": [
-      "education.github.com",
+      "*.githubapp.com",
       "github.com",
-      "*.github.net",
-      "npmjs.com",
+      "classroom.github.com",
       "gist.github.com",
-      "npmjs.org",
-      "api.github.com",
-      "*.githubusercontent.com"
+      "*.github.net",
+      "education.github.com",
+      "npmjs.com",
+      "npmjs.org"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -8439,10 +8439,10 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/wealthsimple",
     "targets": [
-      "com.wealthsimple",
       "com.wealthsimple.wealthsimple",
-      "*.simpletax.ca",
-      "*.wealthsimple.com"
+      "*.wealthsimple.com",
+      "com.wealthsimple",
+      "*.simpletax.ca"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -8476,14 +8476,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/eternal",
     "targets": [
-      "*.tktnew.com",
-      "api.grofers.com",
-      "*.insider.in",
-      "api2.grofers.com",
-      "winecellar.zomato.com",
       "com.blinkit.bistro",
+      "bistro-api.blinkit.com",
+      "*.insider.in",
+      "*.edition.in",
+      "*.eternal.com",
+      "*.tktnew.com",
       "*.zomato.com",
-      "*.ticketnew.com"
+      "*.zomans.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -8534,14 +8534,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/deriv",
     "targets": [
-      "core-api.deriv.com",
-      "ct.deriv.com",
-      "github.com/binary-com",
-      "*.derivws.com",
       "app.deriv.com",
-      "api.deriv.com",
-      "github.com/deriv-com",
-      "cashier.deriv.com"
+      "derivws.com",
+      "smarttrader.deriv.com",
+      "*.derivws.com",
+      "*.deriv.com",
+      "cashier.deriv.com",
+      "ct.deriv.com",
+      "core-api.deriv.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -8559,12 +8559,12 @@
     "url": "https://hackerone.com/tinder",
     "targets": [
       "*.tstaging.com",
-      "*.tinderops.net",
-      "*.tinder.com",
-      "*.tinderwebstaging.com",
-      "*.gotinder.com",
       "com.tinder",
-      "*.tstaging.tools"
+      "*.tinderops.net",
+      "*.tinderwebstaging.com",
+      "*.tstaging.tools",
+      "*.tinder.com",
+      "*.gotinder.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -8581,9 +8581,9 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/fetlife",
     "targets": [
-      "fetlifemail.com",
+      "fetlife.com",
       "*.fetlife.com",
-      "fetlife.com"
+      "fetlifemail.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -8617,14 +8617,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/grab",
     "targets": [
-      "gifts.grab.com",
-      "*.grab.com",
-      "com.grabtaxi.driver2",
-      "p.grabtaxi.com",
-      "ovo.id",
-      "grab.careers",
+      "*.grab.co",
+      "*.grab-sure.com",
       "*.ovofinansial.com",
-      "com.grabtaxi.passenger"
+      "com.grab.merchant",
+      "p.grabtaxi.com",
+      "com.grabtaxi.passenger",
+      "manage.grab.co",
+      "com.moveit.app.customer"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -8675,14 +8675,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/clear",
     "targets": [
-      "web-edge.clearme.com",
-      "concierge.clearme.com",
-      "identity.clearme.com",
-      "clearme.com",
-      "clearme.atlassian.net",
       "com.clearme.Clear",
-      "enroll.clearme.com",
-      "my.clearme.com"
+      "identity.clearme.com",
+      "authentication.clearme.com",
+      "com.clearme.clearapp",
+      "clearme.com",
+      "verified.clearme.com/v1/verification_sessions",
+      "ir.clearme.com",
+      "www.clearme.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -8716,10 +8716,10 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/moneybird",
     "targets": [
-      "moneybird.com",
-      "com.moneybird.Moneybird",
+      "com.moneybird.android",
       "moneybirdstorage.com",
-      "com.moneybird.android"
+      "com.moneybird.Moneybird",
+      "moneybird.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -8771,14 +8771,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/kayak",
     "targets": [
-      "www.kayak.com",
+      "com.kayak.android",
       "kayak.ai",
       "www.checkfelix.com",
-      "www.momondo.com",
-      "www.hotelscombined.com",
+      "www.swoodoo.com",
       "*.kayak.com",
-      "www.cheapflights.com",
-      "www.mundi.com.br"
+      "www.momondo.com",
+      "www.mundi.com.br",
+      "com.kayak.travel"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -8796,13 +8796,13 @@
     "url": "https://hackerone.com/basecamp",
     "targets": [
       "com.basecamp.bc3-ios",
-      "fizzy.do",
-      "launchpad.37signals.com",
-      "com.basecamp.bc3",
+      "app.basecamp.com",
+      "HEY.app",
       "world.hey.com",
       "HEY.exe",
-      "app.basecamp.com",
-      "Basecamp.app"
+      "Basecamp.app",
+      "basecamp-setup.exe",
+      "com.basecamp.hey"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -8819,14 +8819,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/shopify",
     "targets": [
-      "*.shopifycloud.com",
-      "accounts.shopify.com",
-      "*.shopifykloud.com",
-      "partners.shopify.com",
       "*.pci.shopifyinc.com",
-      "shopifyinbox.com",
-      "*.shopify.com",
-      "your-store.myshopify.com"
+      "partners.shopify.com",
+      "admin.shopify.com",
+      "*.shopifycloud.com",
+      "arrive-server.shopifycloud.com",
+      "linkpop.com",
+      "your-store.myshopify.com",
+      "*.shopify.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -8860,14 +8860,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/airbnb",
     "targets": [
-      "open.airbnb.com",
       "*.airbnb-aws.com",
-      "*.byairbnb.com",
-      "m.airbnb.com",
-      "callbacks.airbnb.com",
-      "assets.airbnb.com",
-      "*.airbnbpayments.com",
-      "*.airbnbcitizen.com"
+      "*.luxuryretreats.com",
+      "*.hoteltonight-test.com",
+      "*.muscache.com",
+      "com.airbnb.app",
+      "*.atairbnb.com",
+      "com.airbnb.android",
+      "*.byairbnb.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -8884,14 +8884,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/bookingcom",
     "targets": [
-      "autocomplete.booking.com",
-      "indicative-pricing.taxi.booking.com",
-      "compass.fareharbor.com",
-      "supply-xml.booking.com",
-      "teleport.fareharbor.engineering",
-      "www.fareharbor.com",
-      "paynotifications.booking.com",
-      "experiences.booking.com"
+      "booking.com",
+      "demo.fareharbor.com",
+      "account.booking.com",
+      "tableau.fareharbor.engineering",
+      "*.booking.com",
+      "taxi.booking.com",
+      "experiences.booking.com",
+      "paymentcomponent.booking.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -8908,11 +8908,11 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/airtable",
     "targets": [
+      "api-staging.airtable.com",
+      "mcp.staging.airtable.com",
+      "staging.airtable.com",
       "airtable.jsSDK(https://www.npmjs.com/package/airtable)",
       "*.staging.airtable.com",
-      "staging.airtable.com",
-      "mcp.staging.airtable.com",
-      "api-staging.airtable.com",
       "*.staging-airtableblocks.com"
     ],
     "bounty_eligible": true,
@@ -8930,14 +8930,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/adobe",
     "targets": [
-      "adobeid-na1.services.adobe.com",
-      "com.adobe.Adobe-Reader",
-      "com.adobe.scan.ios",
-      "magento.com",
-      "repo.magento.com",
-      "stock.adobe.com",
-      "account.magento.com",
-      "com.iphone.workfront"
+      "com.adobe.reader",
+      "fonts.adobe.com",
+      "firefly.adobe.com",
+      "contributor.stock.adobe.com",
+      "photos.adobe.io",
+      "com.adobe.lrmobile",
+      "*.acrobat.adobe.com",
+      "new.express.adobe.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -8954,11 +8954,11 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/formassembly",
     "targets": [
+      "app.formassembly.com",
       "appsecfa.tfaforms.net",
-      "formassembly.com",
       "typeahead.formassembly.com",
       "www.formassembly.com",
-      "app.formassembly.com"
+      "formassembly.com"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -8975,14 +8975,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/ui",
     "targets": [
+      "*.ui.com",
+      "rma.ui.com",
+      "training.ui.com",
       "uisp.com",
-      "com.ubnt.easyunifi",
-      "careers.ui.com",
+      "*.ubnt.com",
+      "com.ubnt.discovery.app",
       "design.ui.com",
-      "blog.ui.com",
-      "wiki.ui.com",
-      "*.uisp.com",
-      "*.ui.com"
+      "com.ubnt.umobile"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -8999,14 +8999,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/snapchat",
     "targets": [
-      "code.playcanvas.com",
-      "rt.playcanvas.com",
+      "*.sc-corp.net",
+      "relay.playcanvas.com",
+      "com.bitstrips.imoji",
       "playcanvas.com",
-      "web.snapchat.com",
-      "store.snapchat.com",
-      "ads.snapchat.com",
-      "com.snapchat.android",
-      "map.snapchat.com"
+      "msg.playcanvas.com",
+      "create.snapchat.com",
+      "playcanv.as",
+      "com.snapchat.android"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -9023,13 +9023,13 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/priceline",
     "targets": [
-      "www.getaroom.com",
-      "priceline.com",
       "www.priceline.com",
-      "com.priceline.android.negotiator",
-      "bookingholdings-coe.com",
-      "press.priceline.com",
       "www.bookingholdings.com",
+      "priceline.com",
+      "com.priceline.android.negotiator",
+      "press.priceline.com",
+      "ir.bookingholdings.com",
+      "www.getaroom.com",
       "flyiin.com"
     ],
     "bounty_eligible": true,
@@ -9047,9 +9047,9 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/uber",
     "targets": [
-      "uber.com",
+      "*ubereats.com",
       "*.uberinternal.com",
-      "*ubereats.com"
+      "uber.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -9066,11 +9066,11 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/yelp",
     "targets": [
-      "yelptop100.com",
       "*.yelp.com",
-      "*.yelpwifi.com",
       "com.yelp.android.biz",
-      "com.yelp.android"
+      "com.yelp.android",
+      "*.yelpwifi.com",
+      "yelptop100.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -9087,8 +9087,8 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/informatica",
     "targets": [
-      "*.informatica.com",
-      "*.informaticacloud.com"
+      "*.informaticacloud.com",
+      "*.informatica.com"
     ],
     "bounty_eligible": false,
     "max_bounty": 0,
@@ -9105,14 +9105,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/vimeo",
     "targets": [
+      "magisto.com",
+      "com.vimeocreate.videoeditor.moviemaker",
+      "applause1.magisto.com",
       "api.vimeo.com",
-      "vimeo.magisto.com",
-      "*.new.livestream.com",
+      "*.cloud.vimeo.com",
       "*.vimeo.com",
-      "com.livestream.livestream",
-      "embed.vhx.tv",
-      "www.livestream.com",
-      "*.livestream.com"
+      "player.vimeo.com",
+      "donations.livestream.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -9129,10 +9129,10 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/linkedin",
     "targets": [
+      "api.linkedin.com",
       "business.linkedin.com",
-      "www.linkedin.com",
       "com.linkedin.android",
-      "api.linkedin.com"
+      "www.linkedin.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -9149,14 +9149,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/greenhouse",
     "targets": [
-      "boards.greenhouse.io",
-      "api.greenhouse.io",
       "interseller.io",
-      "app.greenhouse.io",
       "jss.greenhouse.io",
-      "support.greenhouse.io",
       "www.greenhouse.io",
-      "app.interseller.io"
+      "api.greenhouse.io",
+      "app.greenhouse.io",
+      "onboarding.greenhouse.io",
+      "boards.greenhouse.io",
+      "support.greenhouse.io"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -9190,14 +9190,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/gitlab",
     "targets": [
-      "registry.gitlab.com",
-      "customers.gitlab.com",
-      "docs.gitlab.com",
-      "about.gitlab.com",
-      "advisories.gitlab.com",
+      "*.gitlab.org",
       "*.gitlab.net",
-      "gitlab.com",
-      "design.gitlab.com"
+      "customers.gitlab.com",
+      "about.gitlab.com",
+      "registry.gitlab.com",
+      "design.gitlab.com",
+      "docs.gitlab.com",
+      "advisories.gitlab.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -9214,14 +9214,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/x",
     "targets": [
-      "grokipedia.com",
-      "com.twitter.android",
-      "ai.x.grok",
-      "*.x.com",
-      "xadsacademy.com",
-      "ai.x.GrokApp",
+      "com.atebits.Tweetie2",
+      "x.com",
+      "grok.com",
       "money.x.com",
-      "*.twitter.com"
+      "*.twitter.com",
+      "*.x.ai",
+      "t.co",
+      "gnip.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -9238,14 +9238,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/cloudflare",
     "targets": [
-      "*.teams.cloudflare.com",
-      "api.cloudflare.com",
       "1.1.1.1Resolver",
-      "*.cloudflarepartners.com",
+      "*.teams.cloudflare.com",
+      "one.dash.cloudflare.com",
+      "api.cloudflare.com",
       "cloudflareworkers.com",
       "*.cloudflare.com",
       "dash.cloudflare.com",
-      "one.dash.cloudflare.com"
+      "*.cloudflarepartners.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -9262,14 +9262,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/automattic",
     "targets": [
+      "clay.earth",
+      "my.pressable.com",
+      "*.srvcs.tumblr.com",
       "safe.tumblr.com",
-      "parse.ly",
-      "intensedebate.com",
-      "simplenote.com",
-      "com.clay.ios",
-      "*.tumblr.com",
-      "secure.tumblr.com",
-      "www.tumblr.com"
+      "embed.tumblr.com",
+      "simperium.com",
+      "api.tumblr.com",
+      "mailpoet.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -9303,14 +9303,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/coinbase",
     "targets": [
-      "com.coinbase.android",
       "commerce.coinbase.com",
-      "prime.coinbase.com",
-      "coinbase.com",
-      "custody.coinbase.com",
       "*.coinbase.com",
+      "international.coinbase.com",
+      "api.coinbase.com",
+      "com.coinbase.wallite",
+      "*.cbhq.net",
       "org.toshi.distribution",
-      "*.base.org"
+      "coinbase.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -9344,14 +9344,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/slack",
     "targets": [
-      "com.slack.slackmdm",
-      "slack.com",
       "*.quip.com",
-      "slackb.com",
-      "www.quip.com",
+      "app.slack.com",
+      "slack-redir.net",
       "slack-status.com",
+      "com.tinyspeck.chatlyio",
+      "slack-imgs.com",
       "slackatwork.com",
-      "com.tinyspeck.chatlyio"
+      "edgeapi.slack.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -9419,14 +9419,14 @@
     "source": "HackerOne",
     "url": "https://hackerone.com/security",
     "targets": [
-      "api.hackerone.com",
-      "hackathon-photos.hackerone-user-content.com",
-      "reviewer.pullrequest.com",
-      "profile-photos-us-east-2.hackerone-user-content.com",
-      "errors.hackerone.net",
-      "hackerone.live",
+      "cover-photos.hackerone-user-content.com",
       "www.wearehackerone.com",
-      "hackerone-user-content.com"
+      "hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com",
+      "profile-photos.hackerone-user-content.com",
+      "profile-photos-us-east-2.hackerone-user-content.com",
+      "hackerone-user-content.com",
+      "app.pullrequest.com",
+      "api.hackerone.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 20000,
@@ -9597,9 +9597,9 @@
     "source": "Bugcrowd",
     "url": "https://bugcrowd.com/None",
     "targets": [
-      "*.arlocloud.com",
       "*.arloxcld.com",
-      "*.arlo.com(subdomainsimpactingproductioncustomer-facingservices)"
+      "*.arlo.com(subdomainsimpactingproductioncustomer-facingservices)",
+      "*.arlocloud.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 15000,
@@ -9634,8 +9634,8 @@
     "source": "Bugcrowd",
     "url": "https://bugcrowd.com/None",
     "targets": [
-      "Anyassociated*.atlassian.comor*.atl-paas.netdomainthatcanbeexploitedDIRECTLYfromthe*.atlassian.netinstance",
       "GraphQLAPI(bugbounty-test-<bugcrowd-name>.atlassian.net/gateway/api/graphql)",
+      "Anyassociated*.atlassian.comor*.atl-paas.netdomainthatcanbeexploitedDIRECTLYfromthe*.atlassian.netinstance",
       "Anyother*.atlassian.comor*.atl-paas.netdomainthatcannotbeexploiteddirectlyfroma*.atlassian.netinstance"
     ],
     "bounty_eligible": true,
@@ -9687,14 +9687,14 @@
     "source": "Bugcrowd",
     "url": "https://bugcrowd.com/None",
     "targets": [
-      "*.cic-bug-bounty.auth0app.com",
-      "openidconnect.net\t",
-      "auth0.com\t",
-      "webauthn.me\t",
       "auth0.net",
-      "jwt.io",
+      "samltool.io\t",
+      "webauthn.me\t",
       "config.cic-bug-bounty.auth0app.com",
-      "samltool.io\t"
+      "jwt.io",
+      "auth0.com\t",
+      "openidconnect.net\t",
+      "*.cic-bug-bounty.auth0app.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 15000,
@@ -9796,13 +9796,13 @@
     "source": "Bugcrowd",
     "url": "https://bugcrowd.com/None",
     "targets": [
-      "pro.coinmarketcap.com",
-      "pro-api.coinmarketcap.com",
-      "TrustwalletChromeExtension",
-      "3rdparty-apis.coinmarketcap.com",
       "api.binance.com",
+      "pro.coinmarketcap.com",
       "portal-api.coinmarketcap.com",
+      "pro-api.coinmarketcap.com",
+      "3rdparty-apis.coinmarketcap.com",
       "api.coinmarketcap.com",
+      "TrustwalletChromeExtension",
       "coinmarketcap.com"
     ],
     "bounty_eligible": true,
@@ -9820,8 +9820,8 @@
     "source": "Bugcrowd",
     "url": "https://bugcrowd.com/None",
     "targets": [
-      "*.bitdefender.com",
-      "*.bitdefender.net"
+      "*.bitdefender.net",
+      "*.bitdefender.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 15000,
@@ -10077,9 +10077,9 @@
     "source": "Bugcrowd",
     "url": "https://bugcrowd.com/None",
     "targets": [
-      "*.canva.com",
       "*.canva-apps.cn",
       "*.canva-apps.com",
+      "*.canva.com",
       "*.canva.cn"
     ],
     "bounty_eligible": true,
@@ -10165,13 +10165,13 @@
     "source": "Bugcrowd",
     "url": "https://bugcrowd.com/None",
     "targets": [
+      "*.chimecard.com",
+      "*.chmfin.com",
+      "*.chimebank.com\t",
+      "*.1debit.com",
       "AllChimeAssets",
       "*.chimepayments.com",
-      "*.1debit.com",
-      "*.chimebank.com\t",
-      "*.saltlabs.com",
-      "*.chmfin.com",
-      "*.chimecard.com"
+      "*.saltlabs.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 15000,
@@ -10205,9 +10205,9 @@
     "source": "Bugcrowd",
     "url": "https://bugcrowd.com/None",
     "targets": [
+      "*.meraki.com",
       "*.ikarem.io",
-      "*.network-auth.com",
-      "*.meraki.com"
+      "*.network-auth.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 15000,
@@ -10414,10 +10414,10 @@
     "source": "Bugcrowd",
     "url": "https://bugcrowd.com/None",
     "targets": [
-      "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588",
       "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588",
-      "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588",
-      "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588"
+      "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588",
+      "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588",
+      "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588"
     ],
     "bounty_eligible": true,
     "max_bounty": 15000,
@@ -10485,9 +10485,9 @@
     "source": "Bugcrowd",
     "url": "https://bugcrowd.com/None",
     "targets": [
-      "AnyVerifiedDell-ControlledEndpoint(domains/IPspace/etc.)\t",
       "*.delltechnologies.com/*",
-      "*.dell.com/*"
+      "*.dell.com/*",
+      "AnyVerifiedDell-ControlledEndpoint(domains/IPspace/etc.)\t"
     ],
     "bounty_eligible": true,
     "max_bounty": 15000,
@@ -10693,14 +10693,14 @@
     "source": "Bugcrowd",
     "url": "https://bugcrowd.com/None",
     "targets": [
-      "*.emakina.ch",
-      "*.emakina.fr",
-      "*.emakina.com",
+      "*.emakina.nl",
       "Openredirectat*.projects.epam.com",
       "*.emakina.at",
+      "*.emakina.com",
       "*.emakina.group",
-      "openredirectat*.epam.com",
-      "*.emakina.us"
+      "*.emakina.us",
+      "*.emakina.ch",
+      "openredirectat*.epam.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 15000,
@@ -10870,8 +10870,8 @@
     "source": "Bugcrowd",
     "url": "https://bugcrowd.com/None",
     "targets": [
-      "flourish-user-preview.com",
-      "flourish-user-templates.com"
+      "flourish-user-templates.com",
+      "flourish-user-preview.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 15000,
@@ -10991,8 +10991,8 @@
     "url": "https://bugcrowd.com/None",
     "targets": [
       "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588",
-      "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588",
-      "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588"
+      "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588",
+      "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588"
     ],
     "bounty_eligible": true,
     "max_bounty": 15000,
@@ -11009,13 +11009,13 @@
     "source": "Bugcrowd",
     "url": "https://bugcrowd.com/None",
     "targets": [
-      "HPEArubaNetworkingPrivate5G",
+      "HPEArubaNetworkingWireless-AOS-10.7andaboveAccessPoints(AP)",
       "HPEArubaNetworkingWireless-AOS-10.7andaboveGateways(GW)",
-      "HPEArubaNetworkingCentral-NewUI(seeScopeDetails)",
+      "HPEArubaNetworkingWireless-AOS-10.4AccessPoints(AP)",
       "*.central.arubanetworks.com",
       "HPEArubaNetworkingWireless-AOS-10.4Gateways(GW)",
-      "HPEArubaNetworkingWireless-AOS-10.4AccessPoints(AP)",
-      "HPEArubaNetworkingWireless-AOS-10.7andaboveAccessPoints(AP)"
+      "HPEArubaNetworkingPrivate5G",
+      "HPEArubaNetworkingCentral-NewUI(seeScopeDetails)"
     ],
     "bounty_eligible": true,
     "max_bounty": 15000,
@@ -11049,9 +11049,9 @@
     "source": "Bugcrowd",
     "url": "https://bugcrowd.com/None",
     "targets": [
-      "HytaleLauncher",
       "HypixelPublicAPIs",
       "3rdPartyIntegrations(Hytale-sideissuesonly)",
+      "HytaleLauncher",
       "HytaleGameClient"
     ],
     "bounty_eligible": true,
@@ -11256,8 +11256,8 @@
     "source": "Bugcrowd",
     "url": "https://bugcrowd.com/None",
     "targets": [
-      "*.jora.com",
-      "*.jora.xyz"
+      "*.jora.xyz",
+      "*.jora.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 15000,
@@ -11376,14 +11376,14 @@
     "source": "Bugcrowd",
     "url": "https://bugcrowd.com/None",
     "targets": [
-      "KlaviyoInfrastructure-44.197.10.144/32",
-      "KlaviyoInfrastructure-12.109.179.242/32",
-      "KlaviyoInfrastructure-12.109.179.243/32",
-      "KlaviyoInfrastructure-12.162.226.197/32",
-      "KlaviyoInfrastructure-12.109.179.244/32",
-      "KlaviyoInfrastructure-12.162.226.194/32",
-      "KlaviyoInfrastructure-3.208.141.108/32",
-      "KlaviyoInfrastructure-64.125.104.194/32"
+      "KlaviyoInfrastructure-12.162.226.198/32",
+      "KlaviyoInfrastructure-46.31.171.123/32",
+      "KlaviyoInfrastructure-3.222.226.200/32",
+      "KlaviyoInfrastructure-12.162.226.196/32",
+      "KlaviyoInfrastructure-64.125.104.197/32",
+      "KlaviyoInfrastructure-52.8.118.227/32",
+      "KlaviyoInfrascucture-50.150.76.0/30",
+      "KlaviyoInfrastructure-144.121.5.144/29"
     ],
     "bounty_eligible": true,
     "max_bounty": 15000,
@@ -11435,9 +11435,9 @@
     "url": "https://bugcrowd.com/None",
     "targets": [
       "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588",
-      "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588",
+      "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588",
       "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588",
-      "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588"
+      "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588"
     ],
     "bounty_eligible": true,
     "max_bounty": 15000,
@@ -11471,14 +11471,14 @@
     "source": "Bugcrowd",
     "url": "https://bugcrowd.com/None",
     "targets": [
-      "*.test.*.lfscnp.com",
       "*.-np.*.lfscnp.com",
-      "*.latitudefinancial.com",
-      "*.latitudefinancial.co.nz",
-      "*.sandbox.*.lfscnp.com",
-      "*.genoapay.co.nz",
       "*.latitudefinancial.com.au",
-      "*.latitudepay.com"
+      "*.latitudepay.com.au",
+      "*.sandbox.*.lfscnp.com",
+      "*.dev.*.lfscnp.com",
+      "*.genoapay.co.nz",
+      "*.test.*.lfscnp.com",
+      "*.latitudefinancial.co.nz"
     ],
     "bounty_eligible": true,
     "max_bounty": 15000,
@@ -11566,14 +11566,14 @@
     "source": "Bugcrowd",
     "url": "https://bugcrowd.com/None",
     "targets": [
-      "Data.lime.bike",
-      "help.lime.bike",
-      "juicer.lime.bike",
-      "web-production.lime.bike",
-      "web-message.lime.bike",
-      "ops.lime.bike",
       "external-api.lime.bike",
-      "proxy-production.lime.bike"
+      "proxy-production.lime.bike",
+      "Data.lime.bike",
+      "web-message.lime.bike",
+      "web-message-high.lime.bike",
+      "ops.lime.bike",
+      "web-production.lime.bike",
+      "help.lime.bike"
     ],
     "bounty_eligible": true,
     "max_bounty": 15000,
@@ -11641,9 +11641,9 @@
     "source": "Bugcrowd",
     "url": "https://bugcrowd.com/None",
     "targets": [
+      "psychobunny.me",
       "lego.me",
-      "fashion4less.me",
-      "psychobunny.me"
+      "fashion4less.me"
     ],
     "bounty_eligible": true,
     "max_bounty": 15000,
@@ -11730,12 +11730,12 @@
     "source": "Bugcrowd",
     "url": "https://bugcrowd.com/None",
     "targets": [
-      "SRCintegrationonhttps://masterpassteststore.com/.OnlytheMasterpasscheckoutfunctionalityisinscope",
+      "FinicityDecisioning",
       "Finicity-OBB(OpenBankingBusinessService)",
       "FinicityConnect",
+      "Finicity-OpenBankingPaymentHistoryapplication",
       "Finicity-DataServices",
-      "FinicityDecisioning",
-      "Finicity-OpenBankingPaymentHistoryapplication"
+      "SRCintegrationonhttps://masterpassteststore.com/.OnlytheMasterpasscheckoutfunctionalityisinscope"
     ],
     "bounty_eligible": true,
     "max_bounty": 15000,
@@ -11786,9 +11786,9 @@
     "source": "Bugcrowd",
     "url": "https://bugcrowd.com/None",
     "targets": [
+      "mix-dev.monash.edu/*",
       "mix-qat.monash.edu/*",
       "eassessment.monash.edu",
-      "mix-dev.monash.edu/*",
       "mix.monash.edu"
     ],
     "bounty_eligible": true,
@@ -11944,8 +11944,8 @@
     "url": "https://bugcrowd.com/None",
     "targets": [
       "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588",
-      "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588",
       "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588",
+      "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588",
       "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588",
       "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588"
     ],
@@ -11965,8 +11965,8 @@
     "url": "https://bugcrowd.com/None",
     "targets": [
       "216.20.176.0/20",
-      "AnythingOwnedbyNorthwesternMutualonthePublicInternetNotListedasOutofScope",
-      "AnythingthatClearlyAffectsNorthwesternMutualButisNotOwnbyNorthwesternMutual"
+      "AnythingthatClearlyAffectsNorthwesternMutualButisNotOwnbyNorthwesternMutual",
+      "AnythingOwnedbyNorthwesternMutualonthePublicInternetNotListedasOutofScope"
     ],
     "bounty_eligible": true,
     "max_bounty": 15000,
@@ -11983,9 +11983,9 @@
     "source": "Bugcrowd",
     "url": "https://bugcrowd.com/None",
     "targets": [
-      "prod-*.nu.com.co",
+      "prod-*.nubank.com.br",
       "prod-*.nu.com.mx",
-      "prod-*.nubank.com.br"
+      "prod-*.nu.com.co"
     ],
     "bounty_eligible": true,
     "max_bounty": 15000,
@@ -12141,14 +12141,14 @@
     "source": "Bugcrowd",
     "url": "https://bugcrowd.com/None",
     "targets": [
-      "merchandise.opera-api.com",
-      "api.gx.games/dc",
-      "*.yoyogames.com",
-      "*.rtbscale.com",
-      "push.opera.com",
-      "api.gx.games/pub",
-      "*.opera.technology",
-      "api.gx.me/me"
+      "api.gx.games/session",
+      "91.203.96.0/22",
+      "api.gx.me/me",
+      "*.opr.news",
+      "37.228.104.0/21",
+      "*.dailyadvent.com",
+      "103.83.120.0/22",
+      "marketplace.gamemaker.io"
     ],
     "bounty_eligible": true,
     "max_bounty": 15000,
@@ -12199,14 +12199,14 @@
     "source": "Bugcrowd",
     "url": "https://bugcrowd.com/None",
     "targets": [
-      "211.31.132.151",
-      "203.17.138.18",
-      "211.31.132.14",
+      "198.142.152.5",
+      "198.142.152.67",
+      "ras1.optus.com.au",
       "198.142.152.141",
-      "198.142.152.140",
-      "211.29.93.9",
-      "198.142.152.36",
-      "198.142.152.67"
+      "211.28.90.148",
+      "211.29.132.27",
+      "211.29.152.97",
+      "203.17.138.78"
     ],
     "bounty_eligible": true,
     "max_bounty": 15000,
@@ -12276,14 +12276,14 @@
     "source": "Bugcrowd",
     "url": "https://bugcrowd.com/None",
     "targets": [
-      "portal.myconnect.com.au/new-connection",
-      "*.support.originenergy.com.au",
       "*.download.originenergy.com.au",
-      "*.origindigital-pac.com.au",
-      "*.odcdn.com.au",
       "*.api.originenergy.com.au",
+      "myconnect.com.au",
+      "hub.myconnect.com.au",
+      "*.origindigital-pac.com.au",
+      "*.support.originenergy.com.au",
       "portal.myconnect.com.au",
-      "myconnect.com.au"
+      "*.odcdn.com.au"
     ],
     "bounty_eligible": true,
     "max_bounty": 15000,
@@ -12436,8 +12436,8 @@
     "source": "Bugcrowd",
     "url": "https://bugcrowd.com/None",
     "targets": [
-      "*.points.com",
-      "AdditionalLoyaltyscopeincludedunderresourcestab"
+      "AdditionalLoyaltyscopeincludedunderresourcestab",
+      "*.points.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 15000,
@@ -12454,14 +12454,14 @@
     "source": "Bugcrowd",
     "url": "https://bugcrowd.com/None",
     "targets": [
-      "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588",
       "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588",
       "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588",
+      "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588",
       "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588",
       "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588",
-      "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588",
-      "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588",
-      "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588"
+      "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588",
+      "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588",
+      "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588"
     ],
     "bounty_eligible": true,
     "max_bounty": 15000,
@@ -12580,14 +12580,14 @@
     "source": "Bugcrowd",
     "url": "https://bugcrowd.com/None",
     "targets": [
-      "*.kortathjonustan.is",
-      "*.korta.is",
-      "*.rapyd.org",
       "api.rapyd.net",
+      "*.korta.is",
+      "*.rapyd.net",
       "checkout.rapyd.net",
+      "*.kortathjonustan.is",
       "*.rapyd.com",
-      "verify.rapyd.net",
-      "*.rapyd.net"
+      "*.rapyd.org",
+      "verify.rapyd.net"
     ],
     "bounty_eligible": true,
     "max_bounty": 15000,
@@ -12604,14 +12604,14 @@
     "source": "Bugcrowd",
     "url": "https://bugcrowd.com/None",
     "targets": [
-      "*.id.realestate.com.au",
-      "reastatic.net",
+      "*.realestate.com.au",
       "scripts.developersites.com.au",
       "*.mclead.com.au",
-      "*.mortgagechoice.com.au",
-      "*.demo.bp.mortgagechoice.com.au",
+      "reastatic.net",
       "sftp://ftp.developersites.com.au:45875",
-      "*.realestate.com.au"
+      "*.id.realestate.com.au",
+      "*.mortgagechoice.com.au",
+      "*.api.id.realestate.com.au"
     ],
     "bounty_eligible": true,
     "max_bounty": 15000,
@@ -12751,14 +12751,14 @@
     "source": "Bugcrowd",
     "url": "https://bugcrowd.com/None",
     "targets": [
-      "SAPConcur",
-      "SAPIntegratedBusinessPlanningforSupplyChain",
       "SAPCloudALM",
-      "SAPBusinessNetworkforAssetCollaboration",
-      "SAPS/4HANACloudPrivateEdition",
-      "SAPWalkMe",
+      "SAPAICore",
+      "SAPS/4HANAmigrationcockpit",
+      "SAPConcur",
+      "SAPBusinessNetworkforLogistics\t",
+      "Gardener",
       "SAPBusinessOne",
-      "SAPOrderandDeliveryScheduling"
+      "SAPCustomerDataPlatform"
     ],
     "bounty_eligible": true,
     "max_bounty": 15000,
@@ -12792,13 +12792,13 @@
     "source": "Bugcrowd",
     "url": "https://bugcrowd.com/None",
     "targets": [
-      "*.skinfra.xyz",
-      "*.outfra.xyz",
-      "*.jobapi.net",
       "*.sol-data.com",
-      "*.seek.com",
+      "*.seekpass.co",
       "*.aips-internal.com",
-      "*.seekpass.co"
+      "*.outfra.xyz",
+      "*.seek.com",
+      "*.skinfra.xyz",
+      "*.jobapi.net"
     ],
     "bounty_eligible": true,
     "max_bounty": 15000,
@@ -12818,11 +12818,11 @@
       "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588",
       "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588",
       "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588",
-      "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588",
+      "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588",
       "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588",
-      "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588",
-      "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588",
-      "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588"
+      "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588",
+      "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588",
+      "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588"
     ],
     "bounty_eligible": true,
     "max_bounty": 15000,
@@ -12839,14 +12839,14 @@
     "source": "Bugcrowd",
     "url": "https://bugcrowd.com/None",
     "targets": [
-      "api.simplisafe.com(HSPEndpoints)",
-      "*.prd.platform.simplisafe.com(HSPEndpoints)",
-      "*.prd.services.simplisafe.com(AppEndpoints)",
-      "api.services.simplisafe.com(HSPEndpoints)",
-      "api.simplisafe.com(AppEndpoints)",
+      "api.services.simplisafe.com(AppEndpoints)",
       "*.prd.cam.simplisafe.com(HSPEndpoints)",
-      "media.simplisafe.com",
-      "api.services.simplisafe.com(AppEndpoints)"
+      "mfa.simplisafe.com",
+      "*.prd.webapps.simplisafe.com",
+      "*.prd.cam.simplisafe.com(AppEndpoints)",
+      "api.services.simplisafe.com(HSPEndpoints)",
+      "*.prd.aser.simplisafe.com",
+      "api.simplisafe.com(HSPEndpoints)"
     ],
     "bounty_eligible": true,
     "max_bounty": 15000,
@@ -12932,8 +12932,8 @@
     "url": "https://bugcrowd.com/None",
     "targets": [
       "skyscanner.net/*",
-      "gateway.skyscanner.net/*",
       "partnerportal.skyscanner.net/*",
+      "gateway.skyscanner.net/*",
       "skyscanner.net/hotels/book/*",
       "*.skyscanner.net"
     ],
@@ -13022,8 +13022,8 @@
     "targets": [
       "*.soundcloud.org",
       "*.s-cloud.net",
-      "api-*.soundcloud.com",
-      "*.services.repostnetwork.com"
+      "*.services.repostnetwork.com",
+      "api-*.soundcloud.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 15000,
@@ -13176,13 +13176,13 @@
     "source": "Bugcrowd",
     "url": "https://bugcrowd.com/None",
     "targets": [
-      "*.tesla.cn",
       "*.teslamotors.com",
-      "*.tesla.services",
-      "AnyhostverifiedtobeownedbyTeslaMotorsInc.(domains/IPspace/etc.)",
+      "*.tesla.com",
       "*.solarcity.com",
       "*.teslainsuranceservices.com",
-      "*.tesla.com"
+      "AnyhostverifiedtobeownedbyTeslaMotorsInc.(domains/IPspace/etc.)",
+      "*.tesla.cn",
+      "*.tesla.services"
     ],
     "bounty_eligible": true,
     "max_bounty": 15000,
@@ -13199,14 +13199,14 @@
     "source": "Bugcrowd",
     "url": "https://bugcrowd.com/None",
     "targets": [
-      "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588",
       "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588",
+      "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588",
       "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588",
       "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588",
-      "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588",
-      "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588",
       "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588",
-      "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588"
+      "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588",
+      "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588",
+      "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588"
     ],
     "bounty_eligible": true,
     "max_bounty": 15000,
@@ -13240,8 +13240,8 @@
     "source": "Bugcrowd",
     "url": "https://bugcrowd.com/None",
     "targets": [
-      "*.adsrvr.org",
-      "*.thetradedesk.com"
+      "*.thetradedesk.com",
+      "*.adsrvr.org"
     ],
     "bounty_eligible": true,
     "max_bounty": 15000,
@@ -13275,12 +13275,12 @@
     "source": "Bugcrowd",
     "url": "https://bugcrowd.com/None",
     "targets": [
-      "api.tidal.com",
+      "*.tidalhifi.com",
+      "*.wimpmusic.com",
       "TidalOfficialClients(e.g.Sonosintegration",
       "*tidalhi.fi",
       "*.tdl.sh",
-      "*.wimpmusic.com",
-      "*.tidalhifi.com"
+      "api.tidal.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 15000,
@@ -13297,10 +13297,10 @@
     "source": "Bugcrowd",
     "url": "https://bugcrowd.com/None",
     "targets": [
-      "*.trello.services",
       "TrelloThirdPartyPowerups",
-      "trello.com",
-      "api.trello.com"
+      "*.trello.services",
+      "api.trello.com",
+      "trello.com"
     ],
     "bounty_eligible": true,
     "max_bounty": 15000,
@@ -13317,8 +13317,8 @@
     "source": "Bugcrowd",
     "url": "https://bugcrowd.com/None",
     "targets": [
-      "AnypubliclyaccessibleTripadvisorwebassetorhost(domains",
-      "Localizedversionsofwww.tripadvisor.comavailablefromthesite'sheaderorfooter"
+      "Localizedversionsofwww.tripadvisor.comavailablefromthesite'sheaderorfooter",
+      "AnypubliclyaccessibleTripadvisorwebassetorhost(domains"
     ],
     "bounty_eligible": true,
     "max_bounty": 15000,
@@ -13472,14 +13472,14 @@
     "source": "Bugcrowd",
     "url": "https://bugcrowd.com/None",
     "targets": [
-      "52.67.69.35",
-      "204.29.196.0/23",
+      "54.83.32.16",
+      "3.223.149.182",
       "52.220.158.49",
-      "3.133.230.28",
-      "52.44.176.187",
+      "204.29.196.0/23",
       "52.86.17.52",
       "3.19.172.158",
-      "34.237.130.2"
+      "52.76.174.107",
+      "52.67.69.35"
     ],
     "bounty_eligible": true,
     "max_bounty": 15000,
@@ -13513,12 +13513,12 @@
     "source": "Bugcrowd",
     "url": "https://bugcrowd.com/None",
     "targets": [
-      "api.upwork.com/graphql",
-      "UpworkDashMessengerDesktopVersion(www.upwork.com/downloads)",
-      "Upwork-api.upwork.com/graphql",
       "www.upwork.com/api",
-      "Upwork-Messages",
       "Upwork-MarketplacePortal",
+      "Upwork-Messages",
+      "UpworkDashMessengerDesktopVersion(www.upwork.com/downloads)",
+      "api.upwork.com/graphql",
+      "Upwork-api.upwork.com/graphql",
       "DirectContracts"
     ],
     "bounty_eligible": true,
@@ -13553,11 +13553,11 @@
     "source": "Bugcrowd",
     "url": "https://bugcrowd.com/None",
     "targets": [
-      "a.root-servers.net(DNSservice;DNSrelated)",
-      "*.gtld-servers.net(DNSservice;DNSrelated)",
-      "epptool-ctld.verisign-grs.com(EPPservice;DNSrelated)",
       "j.root-servers.net(DNSservice;DNSrelated)",
-      "*.verisign-grs.com(DNSservice;DNSrelated)"
+      "*.verisign-grs.com(DNSservice;DNSrelated)",
+      "*.gtld-servers.net(DNSservice;DNSrelated)",
+      "a.root-servers.net(DNSservice;DNSrelated)",
+      "epptool-ctld.verisign-grs.com(EPPservice;DNSrelated)"
     ],
     "bounty_eligible": true,
     "max_bounty": 15000,
@@ -13712,13 +13712,13 @@
     "url": "https://bugcrowd.com/None",
     "targets": [
       "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588",
-      "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588",
+      "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588",
       "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588",
       "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588",
-      "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588",
-      "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588",
+      "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588",
+      "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588",
       "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588",
-      "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588"
+      "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588"
     ],
     "bounty_eligible": true,
     "max_bounty": 15000,
